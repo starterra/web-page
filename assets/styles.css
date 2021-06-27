@@ -1,0 +1,1621 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+	background-color:#10161E;
+	overflow-x: hidden;
+}
+body,
+input[type=submit],
+button[type=submit],
+input,
+button,
+select{
+	font-family:'Raleway',sans-serif;
+	font-weight:400
+}
+body,
+html{
+	margin:0
+}
+button{
+	cursor:pointer
+}
+.container_pp{
+    width:100%;
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto
+}
+.container_pp_menu{
+	width:100%;
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto
+}
+@media all and (min-width:576px){
+	.container_pp,
+	.container_pp_menu{
+		max-width:540px
+	}
+}
+@media all and (min-width:768px){
+	.container_pp,
+	.container_pp_menu{
+		max-width:720px
+	}
+}
+@media all and (min-width:992px){
+	.container_pp,
+	.container_pp_menu{
+		max-width:960px
+	}
+}
+@media all and (min-width:1200px){
+	.container_pp,
+	.container_pp_menu{
+		max-width:1170px
+	}
+}
+.sticky_header{
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	background-color: #10161E;
+	z-index:999999
+}
+.header_top {
+    display: flex;
+    justify-content: space-between;
+	align-items: center
+}
+ul.menu_list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+header nav ul.menu_list > li {
+    display: inline-block;
+    margin-right: 45px;
+}
+header nav ul.menu_list > li:last-child {
+    margin-right: 0px
+}
+
+element.style {
+}
+.header_top {
+    padding: 18px 0;
+}
+a{
+	color:#fff;
+	text-decoration:none;
+	transition:all .3s
+}
+a:hover{
+	color:#FFEE00
+}
+nav li.menu_item a{
+	font-size:17px
+}
+.menu_item_button_last a{
+    color: #19212E
+}
+.menu_item_button_last {
+    background: #FFEE00;
+    padding: 12px 22px;
+    border-radius: 300px;
+	font-weight:700;
+	transition:all .3s
+}
+.menu_item_button_last:hover{
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(255,238,0,1);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(255,238,0,1);
+	box-shadow: 0px 0px 10px 0px rgba(255,238,0,1);
+}
+.hero_section_front {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+	/*padding:15% 0 15% 0;*/
+	position: relative;
+}
+@media all and (min-width:1001px){
+	.hero_section_front{
+		min-height:calc(100vh - 94px);
+	}
+	.space_paralax2{
+		width: 62vh;
+		max-width: 62vh;
+	}
+	.space_paralax {
+		width: 87vh;
+		max-width: 87vh;
+	}
+	.hero_section_front {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+		justify-content: center;
+	}
+}
+.two_columns_hero {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+}
+img{
+	width:auto;
+	max-width:100%;
+}
+.space_paralax {
+  position: absolute;
+  top: -15px;
+  left: -105px;
+  width: auto;
+  height: auto;
+  z-index: 3
+}
+.space_paralax2 {
+  position: absolute;
+  top: 5px;
+  left: -81px;
+  width: auto;
+  height: auto;
+  z-index: 2
+}
+.paralax_image_mouse {
+    position: relative;
+}
+.h1_hero {
+    font-size: 42px;
+    color: #fff;
+	font-weight:400;
+	margin-bottom:0
+}
+.button_hero > a{
+	margin-top:25px!important
+}
+.h1_hero .sec_txt_hero{
+	font-weight:700;
+	font-family: 'Orbitron', sans-serif;
+	color:#FFEE00;
+}
+span.frst_txt_hero {
+    display: block;
+}
+.btn {
+    border: 3px solid #FFEE00;
+    padding: 17px 40px;
+    font-size: 18px;
+    border-radius: 300px;
+    font-weight: 700;
+	display: inline-block;
+}
+.button_hero a.btn.btn-secondary {
+    margin-right: 30px;
+}
+a.btn.btn-secondary:hover{
+	-webkit-box-shadow: 0px 0px 10px 0px rgb(255 238 0);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(255,238,0,1);
+    box-shadow: 0px 0px 10px 0px rgb(255 238 0);
+	color:#fff
+}
+a.btn.btn-primary:hover{
+	background:#FFEE00;
+	-webkit-box-shadow: 0px 0px 10px 0px rgb(255 238 0);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(255,238,0,1);
+    box-shadow: 0px 0px 10px 0px rgb(255 238 0);
+	color:#19212E
+}
+.about_section_home {
+    padding: 110px 0;
+}
+.columns_about_section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+.column_about_section {
+    display: flex;
+    align-items: center;
+}
+.h3_about {
+    font-size: 40px;
+    color: #fff;
+    margin: 20px 0;
+    font-weight: 400;
+}
+.h3_about span {
+    font-weight: 700;
+    font-family: 'Orbitron', sans-serif;
+    color: #FFEE00;
+}
+p.text_about {
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 40px;
+    max-width: 800px;
+    width: 100%;
+    line-height: 30px;
+}
+.ico_about_section {
+    margin-right: 15px;
+}
+.ico_txt_about_section p {
+    margin: 0;
+    color: #fff;
+    font-size: 18px;
+}
+.planets_home_page,
+.box_outline_planets_snlg{
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.top_planets_hp{
+	position:relative
+}
+.top_planets_hp p.text_about {
+    margin: 0;
+	max-width:100%
+}
+.top_planets_hp .h3_about{
+	margin:0
+}
+.planets_home_page {
+    padding: 120px 0;
+}
+.box_top_planets_hp {
+    position: relative;
+}
+
+.box_planets_invert {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap:40px 40px;
+  align-items:center
+}
+
+.inver_box_planets5  { grid-area: 1 / 1 / 2 / 2; }
+.inver_box_planets3 { grid-area: 2 / 1 / 3 / 2; }
+.inver_box_planets1 { grid-area: 3 / 1 / 4 / 2; }
+.inver_box_planets4 { grid-area: 1 / 2 / 3 / 3; }
+.inver_box_planets2 { grid-area: 2 / 2 / 4 / 3; }
+/*
+body::-webkit-scrollbar {
+    width: .7vw;
+}
+
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #FFEE00;
+  outline: 1px solid #FFEE00;
+}*/
+.no_invert_box_planets > div {
+    text-align:right
+}
+.box_outline_planets_snlg{
+	color:#fff
+}
+.boxs_invert_planets {
+    margin-top: 80px;
+}
+.invert_box_planets > div {
+    text-align: left
+}
+p.ltl_planets_txt {
+    font-size: 15px;
+	margin:0
+}
+.head_planets_txt {
+    font-family: 'Orbitron', sans-serif;
+    margin: 10px 0;
+    font-size: 25px;
+}
+.inver_box_planets1 p.top_txt_ltl_big {
+    margin-bottom: 0;
+    font-weight: 700;
+    color: #00FFB1;
+}
+.no_invert_box_planets .box_outline_planets_snlg {
+    border-top-right-radius: 135px;
+    border-bottom-right-radius: 135px;
+}
+.invert_box_planets  .box_outline_planets_snlg {
+    border-top-left-radius: 135px;
+    border-bottom-left-radius: 135px;
+}
+.no_invert_box_planets  .box_outline_planets_snlg{
+	border-left:0!important
+}
+.invert_box_planets  .box_outline_planets_snlg{
+	border-right:0!important
+}
+/*
+.box_outline_planets_snlg{
+	border:3px solid
+}
+
+.inver_box_planets1 .box_outline_planets_snlg{
+	border-color:#FFEE00;
+	-webkit-box-shadow: 0px 0px 12px 0px #FFEE00;
+    -moz-box-shadow: 0px 0px 12px 0px #FFEE00;
+    box-shadow: 0px 0px 12px 0px #FFEE00;
+}
+.inver_box_planets2 .box_outline_planets_snlg{
+	border-color:#FF8800;
+	-webkit-box-shadow: 0px 0px 12px 0px #FF8800;
+    -moz-box-shadow: 0px 0px 12px 0px #FF8800;
+    box-shadow: 0px 0px 12px 0px #FF8800;
+}
+.inver_box_planets3 .box_outline_planets_snlg{
+	border-color:#C74DAD;
+	-webkit-box-shadow: 0px 0px 12px 0px #C74DAD;
+    -moz-box-shadow: 0px 0px 12px 0px #C74DAD;
+    box-shadow: 0px 0px 12px 0px #C74DAD;
+}
+.inver_box_planets4 .box_outline_planets_snlg{
+	border-color:#00E5FF;
+	-webkit-box-shadow: 0px 0px 12px 0px #00E5FF;
+    -moz-box-shadow: 0px 0px 12px 0px #00E5FF;
+    box-shadow: 0px 0px 12px 0px #00E5FF;
+}
+.inver_box_planets5 .box_outline_planets_snlg{
+	border-color:#FFEE00;
+	-webkit-box-shadow: 0px 0px 12px 0px #FFEE00;
+    -moz-box-shadow: 0px 0px 12px 0px #FFEE00;
+    box-shadow:	0px 0px 12px 0px #FFEE00;
+}
+
+.inver_box_planets1 > div:hover {
+    -webkit-box-shadow: 0px 0px 25px 0px #FFEE00;
+    -moz-box-shadow: 0px 0px 25px 0px #FFEE00;
+    box-shadow: 0px 0px 25px 0px #FFEE00;
+}
+.inver_box_planets2 > div:hover {
+    -webkit-box-shadow: 0px 0px 25px 0px #FF8800;
+    -moz-box-shadow: 0px 0px 25px 0px #FF8800;
+    box-shadow: 0px 0px 25px 0px #FF8800;
+}
+.inver_box_planets3 > div:hover {
+    -webkit-box-shadow: 0px 0px 25px 0px #C74DAD;
+    -moz-box-shadow: 0px 0px 25px 0px #C74DAD;
+    box-shadow: 0px 0px 25px 0px #C74DAD;
+}
+.inver_box_planets4 > div:hover {
+    -webkit-box-shadow: 0px 0px 25px 0px #00E5FF;
+    -moz-box-shadow: 0px 0px 25px 0px #00E5FF;
+    box-shadow: 0px 0px 25px 0px #00E5FF;
+}
+.inver_box_planets5 > div:hover {
+    -webkit-box-shadow: 0px 0px 25px 0px #FFEE00;
+    -moz-box-shadow: 0px 0px 25px 0px #FFEE00;
+    box-shadow: 0px 0px 25px 0px #FFEE00;
+}	
+*/
+.snlg_outline_box_planets:before,
+.snlg_outline_box_planets:after,
+.box_outline_planets_snlg{
+	transition:all .3s
+}
+/*
+.inver_box_planets5:hover .box_outline_planets_snlg{
+    -webkit-box-shadow: 0px 0px 53px 0px #FFEE00;
+    -moz-box-shadow: 0px 0px 53px 0px #FFEE00;
+    box-shadow: 0px 0px 53px 0px #FFEE00;
+}
+.inver_box_planets4:hover .box_outline_planets_snlg{
+    -webkit-box-shadow: 0px 0px 53px 0px #00E5FF;
+    -moz-box-shadow: 0px 0px 53px 0px #00E5FF;
+    box-shadow: 0px 0px 53px 0px #00E5FF;
+}
+.inver_box_planets3:hover .box_outline_planets_snlg{
+    -webkit-box-shadow: 0px 0px 53px 0px #C74DAD;
+    -moz-box-shadow: 0px 0px 53px 0px #C74DAD;
+    box-shadow: 0px 0px 53px 0px #C74DAD;
+}
+.inver_box_planets2:hover .box_outline_planets_snlg{
+    -webkit-box-shadow: 0px 0px 53px 0px #FF8800;
+    -moz-box-shadow: 0px 0px 53px 0px #FF8800;
+    box-shadow: 0px 0px 53px 0px #FF8800;
+}
+.inver_box_planets1:hover .box_outline_planets_snlg{
+    -webkit-box-shadow: 0px 0px 53px 0px #00FFB1;
+    -moz-box-shadow: 0px 0px 53px 0px #00FFB1;
+    box-shadow: 0px 0px 53px 0px #00FFB1;
+}*/
+p.bottom_txt_ltl_big {
+    margin: 7px 0 0 0;
+}
+p.bottom_txt_ltl_big.bottom_txt_ltl_big2 {
+    margin-bottom: 15px;
+}
+p.top_txt_ltl_big {
+    font-weight: 700;
+	font-size:18px
+}
+.tokenomics_section_hp {
+    padding: 120px 0;
+}
+p.first_text_token {
+    color: #fff;
+    margin-bottom: 0;
+    font-size: 18px;
+	margin-top: 40px;
+}
+.tokenomics_section_hp .h3_about {
+    margin: 10px 0 0 0;
+}
+.svg_line_3_token:after {
+    content: " ";
+    display: block;
+    width: 100%;
+    height: 19px;
+    background-image: url(/image/line_tokenics.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+}
+.columns_two_tokenics_pp {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+	grid-gap: 30px
+}
+.tokenics_two_col_box {
+    display: flex;
+    align-items: center;
+}
+.tokenics_ico {
+    margin-right: 25px;
+}
+p.yellow_title_tokenics {
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFEE00;
+}
+p.white_title_tokenics {
+    color: #fff;
+    font-size: 15px;
+    line-height: 1.3;
+}
+.svg_line_3_token {
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+.first_sngl_col_tokenomics {
+    padding-top: 25px;
+}
+
+
+.tokenomics_section_hp{
+	position: relative;
+	overflow:hidden
+}
+.tokenomics_section_hp:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 128%;
+    background-image: url(/image/s_background.png);
+    left: -700px;
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: -70px;
+	z-index: -1;
+}
+
+
+.btn-primary{
+	background:#FFEE00;
+	color:#19212E
+}
+.road_map_section_hp {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+	position: relative;
+	background-image: url(/image/galactic_back.png);
+}
+.road_map_section_hp .h3_about{
+	white-space: nowrap;
+}
+.svg_three_col svg{
+	width: 130%!important;
+    height: auto!important;
+}
+.two_col_three_road {
+    display: grid;
+    grid-template-columns: 0.4fr 1.5fr;
+    align-items: center;
+}
+.road_map_section_hp:after {
+    content: " ";
+    display: block;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    background-image: linear-gradient(180deg, rgba(25,32,43,1) 50%, rgba(25,32,43,0.8) 73%, rgba(25,32,43,0.55) 88%, rgba(255,255,255,0) 100%);
+    z-index: 5;
+}
+.road_map_section_hp:before {
+    content: " ";
+    display: block;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    background-image:linear-gradient(0deg,rgba(25,32,43,1) 50%, rgba(25,32,43,0.8) 73%, rgba(25,32,43,0.55) 88%, rgba(255,255,255,0) 100%);
+    z-index: 5;
+}
+.road_map_section_hp .container_pp {
+    position: relative;
+    z-index: 2;
+}
+.svg_line_5_token {
+    position: absolute;
+    left: 0;
+    width: 100%;
+	top: 40%;
+    position: absolute;
+    width: 100%;
+    z-index: 5;
+}
+.svg_line_5_token:after {
+    content: " ";
+    display: block;
+    width: 100%;
+    height: 19px;
+    background-image: url(/image/svg_line_5svg.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+}
+.top_team_hp {
+    text-align: center;
+}
+.top_team_hp p.text_about {
+    max-width: 100%;
+    margin-bottom: 0;
+}
+.txt_head_top_team .h3_about {
+    margin: 0;
+}
+.team_section_hp {
+    padding: 100px 0;
+}
+.top_team_box{
+	position:relative
+}
+.team_svg_lines {
+    position: absolute;
+    right: 0;
+    top: 5px;
+}
+.three_box_team_people {
+    padding-top: 100px;
+	display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+	grid-gap: 60px;
+}
+.svg_twitter_brd1 {
+    border: 2px solid #FFEE00;
+    width: 100%;
+    border-radius: 100%;
+    max-width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	margin: 0 auto;
+	-webkit-box-shadow: 0px 0px 10px 0px rgb(255 238 0);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(255,238,0,1);
+    box-shadow:0px 0px 10px 0px rgb(255 238 0)
+}
+.svg_twitter_brd2 {
+    width: 100%;
+    border-radius: 100%;
+    max-width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.svg_twitter_brd2 > a:hover {
+    display: inline-block;
+    opacity: .4;
+    position: relative;
+}
+.name_h5 {
+    font-size: 30px;
+    color: #fff;
+    margin: 20px 0;
+    font-weight: 400;
+	margin-bottom: 11px;
+}
+.name_h5 span {
+    font-weight: 700;
+    color: #FFEE00;
+}
+.name_team {
+    margin-top: 35px;
+}
+.position_team > p {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+}
+.text_team > p {
+    font-size: 15px;
+    color: #fff;
+	margin-top:7px
+}
+footer {
+    background: #19202B;
+	padding:25px 0
+}
+.copyright_footer p {
+    margin: 0;
+    font-size: 13px;
+    color: #fff;
+}
+.sm_footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.sm_footer ul li {
+    display: inline;
+    margin-right: 35px;
+}
+.sm_footer ul li:last-child {
+    margin-right:0;
+}
+.footer_cols {
+    display: flex;
+    justify-content: space-between;
+	align-items: center;
+}
+.sm_footer a svg path{
+	transition:all .3s
+}
+.sm_footer a:hover svg path{
+	fill:#ffee00
+}
+.hero_section_front:after {
+    content: " ";
+    display: block;
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: -46px;
+    background-image:linear-gradient(0deg,rgba(16, 22, 30,1) 34%, rgba(16, 22, 30,0.6) 54%, rgba(25,32,43,0.45) 79%, rgba(16, 22, 30,0) 100%);
+    z-index: 5;
+}
+@media all and (min-width:1251px){
+	.button_mobile,
+	.primary_menu_mobile{
+		display:none
+	}
+	.hero_section_front{
+		background-image:url(/image/starterratlo.jpg)
+	}
+}
+@media all and (max-width:1251px){
+	.menu_top_pp{
+		display:none;
+	}
+	.button_mobile svg,
+	.close_mobile_menu svg{
+		cursor:pointer
+	}
+	
+	.primary_menu_mobile {
+		z-index: 99999999;
+		top: 0;
+		position: fixed;
+		width: 100%;
+		right: 0;
+		text-align: right;
+		max-width: 240px;
+		background: #10161E;
+		min-height: 100vh;
+		padding: 20px;
+	}
+	.close_mobile_menu {
+		padding: 10px 0 50px 0;
+	}
+	@-webkit-keyframes fadeInLeft {
+  0% {
+   -webkit-transform: translateX(1000px);
+  }
+  100% {
+     -webkit-transform: translateX(0);
+      }
+  }
+         
+.primary_menu_mobile{
+	 transform: translateX(1000px);
+	transition:all .3s
+}
+
+ @keyframes fadeInLeft {
+   0% {
+    transform: translateX(1000px);
+     }
+   100% {
+ transform: translateX(0);
+     }
+}
+
+.show_mobile_menu {
+ -webkit-animation:fadeInLeft .3s forwards;
+  -moz-animation:fadeInLeft.3s forwards;
+  -o-animation:fadeInLeft .3s forwards;
+  animation:fadeInLeft .3s forwards;
+	 }
+	 ul.menu_list > li {
+		margin-bottom: 15px;
+	}
+	nav li.menu_item a{
+		font-size:15px
+	}
+	li.menu_item.menu_item_button_last {
+		display: inline-block;
+		margin-top:10px
+	}
+	.overlay_menu {
+		width: 100%;
+		height: 100%;
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 9999999;
+		background: rgba(0,0,0,.5);
+	}
+	.two_columns_hero{
+		grid-template-columns:100%
+	}
+	.paralax_image_mouse{display:none!important}
+	.hero_section_front{
+		background-image:url(/image/terra1.jpg);
+		 padding: 15% 0;
+	}
+	
+	.box_planets_invert > div {
+		grid-area: inherit;
+	}
+
+	.box_planets_invert {
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr;
+	}
+	.snlg_outline_box_planets{
+		max-width: 95%;
+		width:100%
+	}
+	.invert_box_planets {
+		margin: 0 0 0 auto;
+	}
+	.box_planets_invert {
+		grid-gap: 75px 0;
+	}
+	.inver_box_planets5{
+		order:1
+	}
+	.inver_box_planets4{
+		order:2
+	}
+	.inver_box_planets3{
+		order:3
+	}
+	.inver_box_planets2{
+		order:4
+	}
+	.inver_box_planets1{
+		order:5
+	}
+}
+@media all and (max-width:425px){
+	.hero_section_front{
+		background-position: right;
+	}
+}
+@media all and (min-width:555px) and (max-width:1000px){
+	.columns_about_section{
+		grid-template-columns:1fr 1fr
+	}	
+}
+.road_map_section_hp{
+	overflow:hidden
+}
+.hero_section_front {
+    overflow: hidden;
+}
+@media all and (max-width:1002px){
+	.columns_two_tokenics_pp{
+		grid-template-columns:100%
+	}
+	.single_column_tokenomics.first_sngl_col_tokenomics {
+		margin-bottom: 20px;
+	}
+	.tokenomics_section_hp:before{
+		display:none
+	}
+}
+.left_col_hero {
+    position: relative;
+    z-index: 15;
+}
+@media all and (max-width:768px){
+	.h1_hero{
+		font-size:40px
+	}
+	.columns_about_section{
+		grid-template-columns:100%
+	}
+	.tokenics_two_col_box {
+		display: block;
+		text-align: center;
+	}
+	.tokenics_ico{
+		margin:0
+	}
+}
+@media all and (max-width:1024px){
+	.two_col_three_road{
+		grid-gap: 0px;
+		grid-template-columns:100%
+	}
+	.col_three_right_road {
+		display: none;
+	}
+	.mobie_road_gal img {
+		max-width: inherit;
+		width: 800px;
+		position: relative;
+		left: -46px;
+		overflow: hidden;
+	}
+	.three_box_team_people{
+		grid-template-columns:100%
+	}
+	.road_map_section_hp:after,
+	.road_map_section_hp:before{
+		display:none!important
+	}
+	.mobie_road_gal > div.container_pp {
+		overflow: hidden;
+	}
+}
+@media all and (min-width:1025px){
+	.mobie_road_gal,.dsp_mobile {display:none!important}
+}
+.mobie_road_gal {
+    width: 100%;
+	position: relative;
+}
+.right_txt_road_gal p{
+	font-size:18px;
+	line-height: 1.8;
+}
+.txt_mobile_road_gal p {
+    color: #A2A2A2;
+	margin: 0;
+}
+.left_txt_road_gal p {
+    font-size: 22px;
+    font-weight: 800;
+	white-space: nowrap;
+}
+.right_txt_road_gal {
+    padding-left: 30px;
+}
+.txt_mobile_road_gal > div {
+    margin-bottom: 30px;
+	 display: flex;
+}
+.txt_mobile_road_gal > div:last-child{
+	margin-bottom:0
+}
+.txt_mobile_road_gal {
+    padding: 40px 0 80px 0;
+}
+@media all and (max-width:1000px){
+	.tokenomics_section_hp{
+		padding:55px 0;
+	}
+	.about_section_home {
+		padding: 55px 0;
+	}
+	.team_section_hp {
+		padding: 55px 0;
+	}
+	.sm_footer ul li {
+		margin-right: 13px;
+		white-space: nowrap;
+	}
+	.copyright_footer p {
+		font-size: 11px;
+	}
+	.sm_footer ul {
+		white-space:nowrap
+	}
+}
+.txt_mobile_road_gal1 p {
+    color: #fff;
+}
+
+
+.planets_home_page {
+    overflow: hidden;
+}
+
+.relativ_pos{
+	position:relative!important
+}
+.svg_line_position > svg{position:static!important}
+.svg_line_position{
+	position: absolute;
+	left: -98%;
+}
+.svg_line_2_pos{top:-25px} 
+.svg_line_3_pos,
+.token_lines{top:30px}
+.road_map_section_hp .svg_line_position{
+	position: absolute;
+    left: -490%;
+}
+.single_column_tokenomics.first_sngl_col_tokenomics {
+    position: relative;
+}
+.lines_pp_planets{
+	position: absolute;
+    left: 40%;
+	margin-top: 4px;
+}
+.token_lines,
+.token_lines{    left: -99%;}
+@media all and (max-width:555px){
+	.svg_line_position {
+    position: absolute;
+    right: 45%;
+	left:inherit
+}
+}
+@media all and (max-width:1024px){
+	.lines_pp_planets {
+		left: 50%!important
+	}
+}
+@media all and (max-width:425px){
+	.lines_pp_planets {
+		left: 4%!important;
+		top: -40%;
+	}
+	.svg_line_3_pos {
+		left: -305%!important;
+	}
+	.token_lines{
+		left:-280%!important
+	}
+}
+.team_svg_lines2{
+	left: 58%;
+    position: absolute;
+	    top: 24px;
+}
+.top_team_box {
+    overflow: hidden;
+}
+.about_section_home {
+    overflow: hidden;
+}
+@media all and (max-width:1024px){
+	.team_svg_lines2 {
+		left: 64%!important
+	}
+}
+@media all and (max-width:555px){
+	.top_team_hp {
+		text-align: left;
+	}
+	.team_svg_lines2 {
+		left: 48%!important;
+	}
+}
+@media all and (min-width:1200px){
+	.line_first_pp{
+		left: -99%!important;
+		margin-left:4px!important
+	}
+}
+
+@media all and (max-width:376px){
+	.svg_line_position {
+        right: 39%;
+	}
+}
+@media all and (max-width:320px){
+	.svg_line_position {
+		right: 29%;
+	}
+}
+
+@media all and (min-width:555px) and (max-width:769px){
+	.hero_section_front {
+		background-position-x: 93%;
+	}
+	.svg_line_position{
+		  left: -160%!important; 
+	}
+	.svg_line1_hero.svg_line_position.svg_line_3_pos {
+		left: -170%!important;
+	}
+	.svg_line1_hero.svg_line_position.svg_line_3_pos.token_lines {
+		left: -161%!important;
+	}
+}
+@media all and (min-width:770px) and (max-width:1025px){
+	.hero_section_front {
+		background-position-x: 93%;
+	}
+	.svg_line_position {
+		left: -120%!important;
+	}
+	.svg_line1_hero.svg_line_position.svg_line_3_pos {
+		left: -126%!important;
+	}
+	.svg_line1_hero.svg_line_position.svg_line_3_pos.token_lines {
+		left: -121%!important;
+	}
+}
+.invert_box_planets > div {
+    text-align: right!important;
+}
+.social_ico_team ul {
+    list-style: none;
+}
+.social_ico_team ul li {
+    display: inline;
+	margin-right: 15px;
+}
+.social_ico_team ul li:last-child{
+	margin-right:0
+}
+.social_ico_team ul li a path{transition:all .3s}
+.social_ico_team ul li a:hover path{
+	fill:#ffee00
+}
+@media all and (min-width:1920px){
+	.container_planets{
+		max-width:1920px!important;
+		margin:0 auto
+	}
+}
+.email_list_ico svg{
+	width: 28px;
+    height: 28px;
+}
+.email_list_ico svg path{
+	fill:#fff
+}
+.image_jarzombek img,
+.image_paragraf img,
+.image_kwon img{visibility:hidden}
+
+.image_jarzombek,
+.image_paragraf,
+.image_kwon{
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-size:contain;
+	transition:all .3s
+}
+.image_jarzombek{
+	background-image:url(/image/jarzombek.png)
+}
+.image_paragraf{
+	background-image:url(/image/paragraf.png)
+}
+.image_kwon{
+	background-image:url(/image/dokwon1.png)
+}
+.image_jarzombek:hover{
+	background-image:url(/image/jarzombek_hover.png)
+}
+.image_paragraf:hover{
+	background-image:url(/image/paragraf_hover.png)
+}
+.image_kwon:hover{
+	background-image:url(/image/kwon_hover.png)
+}
+@media all and (max-width:426px){
+	.box_outline_planets_snlg{
+		font-size:12px
+	}
+	.head_planets_txt{
+		font-size:16px;
+	}
+	.top_txt_ltl_big {
+		margin-bottom: 0;
+	}
+	p.bottom_txt_ltl_big {
+		margin: 5px 0 0 0;
+	}
+	p.bottom_txt_ltl_big.bottom_txt_ltl_big2 {
+		margin: 4px 0 0 0;
+	}
+	p.top_txt_ltl_big {
+		margin-top: 10px;
+	}
+	p.top_txt_ltl_big {
+		font-size: 12px;
+	}
+}
+
+
+/*
+
+.snlg_outline_box_planets{
+	border: 5px solid;
+	z-index: 1;
+	position: relative;
+}
+.snlg_outline_box_planets.no_invert_box_planets{
+	border-top-right-radius: 300px;
+    border-bottom-right-radius: 300px;
+}
+.snlg_outline_box_planets.invert_box_planets{
+	border-top-left-radius: 300px;
+    border-bottom-left-radius: 300px;
+}
+.snlg_outline_box_planets:after{
+	content:"";
+	width: 99.3%;
+    height: 95%;
+    position: absolute;
+    top: 0;
+    display: block;
+	border: 7px solid
+}
+.snlg_outline_box_planets.no_invert_box_planets:after{
+	left: -1.5px;
+    border-top-right-radius: 300px;
+    border-bottom-right-radius: 300px;
+}
+.snlg_outline_box_planets.invert_box_planets:after{
+	right: -2px;
+    border-top-left-radius: 300px;
+    border-bottom-left-radius: 300px;
+}
+.snlg_outline_box_planets:before{
+	content:"";
+	display: block;
+    width: 100.6%;
+    height: 103%;
+    position: absolute;
+    top: -11px;
+	border: 7px solid
+}
+.snlg_outline_box_planets.no_invert_box_planets:before{
+	left: 0px;
+	border-top-right-radius: 300px;
+    border-bottom-right-radius: 300px;
+}
+.snlg_outline_box_planets.invert_box_planets:before{
+	right: 0px;
+	border-top-left-radius: 300px;
+    border-bottom-left-radius: 300px;
+}
+.box_outline_planets_snlg:before {
+	content: "";
+    display: block;
+    width: 101.5%;
+    height: 108%;
+    position: absolute;
+    top: -15px;
+	border: 5px solid;
+}
+.inver_box_planets5 .box_outline_planets_snlg:before{
+	border-color:rgb(255,238,0,.14)
+}
+.inver_box_planets4 .box_outline_planets_snlg:before{
+	border-color:rgb(0,229,255,.14)
+}
+.inver_box_planets3 .box_outline_planets_snlg:before{
+	border-color:rgb(199,77,173,.14)
+}
+.inver_box_planets2 .box_outline_planets_snlg:before{
+	border-color:rgb(255,136,0,.14)
+}
+.inver_box_planets1 .box_outline_planets_snlg:before{
+	border-color:rgb(0,255,177,.14)
+}
+.no_invert_box_planets .box_outline_planets_snlg:before {
+    left: 0;
+    border-top-right-radius: 300px;
+    border-bottom-right-radius: 300px;
+}
+.invert_box_planets .box_outline_planets_snlg:before {
+    right: 0;
+    border-top-left-radius: 300px;
+    border-bottom-left-radius: 300px;
+}
+@media all and (max-width:1920px){
+	.snlg_outline_box_planets.invert_box_planets:before,
+	.snlg_outline_box_planets.invert_box_planets:after,
+	.snlg_outline_box_planets.invert_box_planets,
+	.invert_box_planets .box_outline_planets_snlg:before{
+		border-right:0
+	}
+	.snlg_outline_box_planets.no_invert_box_planets:before,
+	.snlg_outline_box_planets.no_invert_box_planets:after,
+	.snlg_outline_box_planets.no_invert_box_planets,
+	.no_invert_box_planets .box_outline_planets_snlg:before{
+		border-left:0
+	}
+}
+@media all and (min-width:1920px){
+	.snlg_outline_box_planets:before{
+		width: 100%;
+		
+	}
+	.snlg_outline_box_planets.no_invert_box_planets:before{
+		left:-2px
+	}
+	.snlg_outline_box_planets.no_invert_box_planets:after{
+		left: -3.5px;
+		width: 99%;
+		top: -1px;
+	}
+	.snlg_outline_box_planets.invert_box_planets:after{
+		width: 98.7%;
+	}
+	.snlg_outline_box_planets.invert_box_planets:before {
+		right: -2px;
+	}
+	.box_outline_planets_snlg:before{
+		width: 100.8%;
+	}
+}
+.inver_box_planets5{
+	border-color:#FFEE00
+}
+.inver_box_planets5:after{
+	border-color:rgb(255,238,0,.15)
+}
+.inver_box_planets5:before{
+	border-color: rgb(255,238,0,.29);
+}
+
+
+.inver_box_planets4{
+	border-color:#00E5FF
+}
+.inver_box_planets4:after{
+	border-color:rgb(0,229,255,.15)
+}
+.inver_box_planets4:before{
+	border-color: rgb(0,229,255,.29)
+}
+
+.inver_box_planets3{
+	border-color:#C74DAD
+}
+.inver_box_planets3:after{
+	border-color:rgb(199,77,173,.15)
+}
+.inver_box_planets3:before{
+	border-color:rgb(199,77,173,.29)
+}
+
+.inver_box_planets2{
+	border-color:#FF8800
+}
+.inver_box_planets2:after{
+	border-color:rgb(255,136,0,.15)
+}
+.inver_box_planets2:before{
+	border-color:rgb(255,136,0,.29)
+}
+
+.inver_box_planets1{
+	border-color:#00FFB1
+}
+.inver_box_planets1:after{
+	border-color:rgb(0,255,177,.15)
+}
+.inver_box_planets1:before{
+	border-color:rgb(0,255,177,.29)
+}
+@media (max-width: 555px){
+	.snlg_outline_box_planets:before{
+		height: 105%;
+		width: 101%;
+	}
+	.snlg_outline_box_planets:after{
+		width: 99%;
+		height: 92%;
+		    top: -1px;
+	}
+	.box_outline_planets_snlg:before{
+		width: 102.85%;
+		height: 113.5%;
+		top: -16.5px;
+	}
+}
+*/
+@media all and (max-width:555px){
+	.hero_section_front {
+		min-height: calc(100vh - 94px);
+	}
+}
+
+.bg_bold{
+	font-weight:700!important;
+}
+.bg_hero_font{
+	font-family: 'Orbitron', sans-serif;
+	font-weight:400;
+}
+p.top_txt_ltl_big {
+    margin-bottom: 0;
+}
+.tokenics_two_col_box .tokenics_ico svg,
+.column_about_section .ico_about_section svg{
+	transition:all 1s
+}
+.tokenics_two_col_box .tokenics_ico:hover svg,
+.column_about_section .ico_about_section:hover svg{
+	transform: rotateY(360deg)
+}
+.position_boc_planets{
+	position:relative
+}
+.snlg_outline_box_planets .box_outline_planets_snlg{
+	position:absolute;
+	top:10%;
+	right:6%
+}
+
+.snlg_outline_box_planets .box_outline_planets_snlg {
+    position: absolute;
+    left: 72%;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    top: 53%;
+    transform: translate(-50%, -50%);
+}
+@media all and (max-width:756px){
+	.snlg_outline_box_planets .box_outline_planets_snlg {
+		left: 55%;
+	}
+}
+@media all and (max-width:594px){
+	.head_planets_txt{
+		font-size:17px!important;
+		margin-bottom: 0;
+		margin-top: 5px;
+	}
+	p.top_txt_ltl_big {
+		margin-top: 5px;
+	}
+	p.bottom_txt_ltl_big.bottom_txt_ltl_big2 {
+		margin-top: 0;
+	}
+	p.bottom_txt_ltl_big {
+		margin-top: 5px;
+	}
+	.box_planets_invert{
+		grid-gap:15px 0!important
+	}
+	.snlg_outline_box_planets .box_outline_planets_snlg{
+		top:49%
+	}
+}
+
+.snlg_outline_box_planets:after {
+    content: "";
+    width: 94%;
+    position: absolute;
+    top: 7%;
+    height: 85%;
+    z-index: -1;
+    display: block;
+    border-radius: 300px;
+    margin: auto;
+    left: 2%;
+}
+.inver_box_planets5:hover:after{
+    -webkit-box-shadow: 0px 0px 55px 0px #ffee00;
+    -moz-box-shadow: 0px 0px 55px 0px #ffee00;
+    box-shadow: 0px 0px 55px 0px #ffee00;
+}
+.inver_box_planets4:hover:after{
+    -webkit-box-shadow: 0px 0px 55px 0px #00E5FF;
+    -moz-box-shadow: 0px 0px 55px 0px #00E5FF;
+    box-shadow: 0px 0px 55px 0px #00E5FF;
+}
+.inver_box_planets3:hover:after{
+    -webkit-box-shadow: 0px 0px 55px 0px #C74DAD;
+    -moz-box-shadow: 0px 0px 55px 0px #C74DAD;
+    box-shadow: 0px 0px 55px 0px #C74DAD;
+}
+.inver_box_planets2:hover:after{
+    -webkit-box-shadow: 0px 0px 55px 0px #FF8800;
+    -moz-box-shadow: 0px 0px 55px 0px #FF8800;
+    box-shadow: 0px 0px 55px 0px #FF8800;
+}
+.inver_box_planets1:hover:after{
+    -webkit-box-shadow: 0px 0px 55px 0px #00FFB1;
+    -moz-box-shadow: 0px 0px 55px 0px #00FFB1;
+    box-shadow: 0px 0px 55px 0px #00FFB1;
+}
+.social_ico_team > ul {
+    padding: 0;
+}
+@media (max-width: 425px){
+	h1.h1_hero {
+		font-size: 31px!important;
+	}
+}
+.no_invert_box_planets {
+    margin-left: -3.5%;
+}
+.invert_box_planets{
+    margin-right: -3.5%;
+}
+@media all and (max-width:768px){
+	.planets_home_page{
+		padding-bottom:50px
+	}
+	.planets_home_page {
+		background-position: right;
+	}
+	.boxs_invert_planets{
+		margin-top:40px
+	}
+}
+.mobile_gal{position:relativ_pos}
+.mobile_gal:before {
+    content: " ";
+    display: block;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    background-image: linear-gradient(0deg,rgba(25,32,43,1) 50%, rgba(25,32,43,0.8) 73%, rgba(25,32,43,0.55) 88%, rgba(25,32,43,0) 100%);
+    z-index: 5;
+}
+.mobile_gal:after {
+    content: " ";
+    display: block;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    background-image: linear-gradient(180deg, rgba(25,32,43,1) 50%, rgba(25,32,43,0.8) 73%, rgba(25,32,43,0.55) 88%, rgba(25,32,43,0) 100%);
+    z-index: 5;
+}
+@media all and (max-width:1024px){
+	.road_map_section_hp{
+		background-repeat:no-repeat;
+		background-color:#19202b;
+		background-image:none
+	}
+	.mobie_road_gal{
+		background-image:url(/image/galactic_back.png)
+	}
+}
+.newsletter_starterra form {
+    display: inline;
+}
+span.newsletter_starterra input[type="text"] {
+    border: 3px solid #ffee00;
+    height: 58px;
+    border-radius: 130px;
+    padding: 29px;
+    font-size: 16px;
+	outline:none!important;
+    color: #fff;
+	border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+	font-weight:700;
+	max-width: 250px;
+	margin-right: -40px;
+	padding-right: 54px;
+	background:transparent!important
+}
+span.newsletter_starterra input[type="text"]::placeholder{
+	color: #fff;
+}
+span.newsletter_starterra input[type="submit"] {
+    height: 58px;
+    border-radius: 130px;
+    outline: none;
+    
+    padding: 29px;
+    font-size: 16px;
+    line-height: 0;
+    border: 3px solid #ffee00;
+	background:#ffee00;
+	font-weight:700;
+	position: relative;
+    z-index: 2;
+    cursor: pointer;
+	transition:all .3s;
+	    
+}
+span.newsletter_starterra input[type="submit"]:hover{
+	-webkit-box-shadow: 0px 0px 10px 0px rgb(255 238 0);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(255,238,0,1);
+    box-shadow: 0px 0px 10px 0px rgb(255 238 0);
+}
+.button_hero a.btn.btn-secondary {
+    margin-right: 13px;
+}
+@media all and (max-width:425px){
+span.newsletter_starterra input[type="text"] {
+    margin: 20px 0 10px 0;
+	    max-width: 200px;
+    margin-right: -40px!important;
+}
+span.newsletter_starterra {
+    display: block;
+}
+}
+span.newsletter_starterra input[type="submit"]{
+	-webkit-appearance: none;	
+}
+.coming_soon_btn{
+	padding: 10px 21px;
+}
+.sm_footer svg {
+    width: 28px;
+    height: 28px;
+}
+.sm_footer svg path{
+	fill:#fff
+}
+@media (max-width: 425px){
+.hero_section_front {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.hero_section_front {
+    background-position-x: 85%;
+}
+}
+html {
+  scroll-behavior: smooth;
+}
+@media all and (max-width:376px){
+	.svg_line_3_pos {
+		left: -339%!important;
+	}
+	.token_lines {
+		left: -309%!important;
+	}
+}
+.box_outline_planets_snlg {
+    width: 200px;
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="225.99" height="225.99" viewBox="0 0 225.99 225.99">
+  <defs>
+    <filter id="Ellipse_669" x="0" y="0" width="225.99" height="225.99" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#fe0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3702" data-name="Group 3702" transform="translate(-569.505 -4017.398)">
+    <g id="Group_3701" data-name="Group 3701">
+      <g id="Group_3700" data-name="Group 3700">
+        <g id="Group_3699" data-name="Group 3699">
+          <g id="Group_3698" data-name="Group 3698">
+            <g transform="matrix(1, 0, 0, 1, 569.51, 4017.4)" filter="url(#Ellipse_669)">
+              <ellipse id="Ellipse_669-2" data-name="Ellipse 669" cx="102.995" cy="102.995" rx="102.995" ry="102.995" transform="translate(10 10)" fill="none" stroke="#fe0" stroke-miterlimit="10" stroke-width="2"/>
+            </g>
+            <g id="Group_3697" data-name="Group 3697">
+              <ellipse id="Ellipse_669-3" data-name="Ellipse 669" cx="81.759" cy="81.759" rx="81.759" ry="81.759" transform="translate(600.741 4048.635)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+              <path id="twitter" d="M29.141,1465.366c10.968,0,16.967-9.087,16.967-16.967,0-.259,0-.516-.017-.772a12.111,12.111,0,0,0,2.975-3.086,11.892,11.892,0,0,1-3.425.939,5.978,5.978,0,0,0,2.622-3.3,11.932,11.932,0,0,1-3.786,1.447,5.969,5.969,0,0,0-10.162,5.439,16.937,16.937,0,0,1-12.29-6.23,5.967,5.967,0,0,0,1.846,7.959,5.913,5.913,0,0,1-2.706-.745v.076a5.965,5.965,0,0,0,4.784,5.845,5.936,5.936,0,0,1-2.693.1,5.971,5.971,0,0,0,5.572,4.142,11.963,11.963,0,0,1-7.406,2.558,12.2,12.2,0,0,1-1.42-.086,16.885,16.885,0,0,0,9.141,2.674" transform="translate(647.968 2676.836)" fill="#00bbed"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
