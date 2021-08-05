@@ -40,13 +40,3 @@ jobs:
         with:
           tags: 323224315211.dkr.ecr.eu-central-1.amazonaws.com/web-page:${{ github.sha }}
           push: true
-      - name: commit tag on prod
-        run: 'sed -i "s/tag: .*/tag: ${{ github.sha }}/g" .helm/values-prod.yaml'
-      - uses: EndBug/add-and-commit@v5.2.0
-        with:
-          author_name: Starterra Service Account
-          author_email: service-account@starterra.io
-          message: '[ci skip] Bump prod environment to ${{ github.sha }}'
-          push: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
