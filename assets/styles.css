@@ -1117,11 +1117,13 @@ footer {
 }
 .image_jarzombek img,
 .image_paragraf img,
-.image_kwon img{visibility:hidden}
+.image_kwon img,
+.image_profile img{visibility:hidden}
 
 .image_jarzombek,
 .image_paragraf,
-.image_kwon{
+.image_kwon,
+.image_profile{
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-size:contain;
@@ -1135,6 +1137,12 @@ footer {
 }
 .image_kwon{
 	background-image:url(/image/dokwon1.png)
+}
+.img_kurdziel{
+	background-image:url(/image/02B%20%281%29.jpg)
+}
+.img_kurdziel:hover{
+	background-image:url(/image/02A%20%281%29.jpg)
 }
 .image_jarzombek:hover{
 	background-image:url(/image/jarzombek_hover.png)
@@ -1396,17 +1404,12 @@ p.top_txt_ltl_big {
 
 .snlg_outline_box_planets .box_outline_planets_snlg {
     position: absolute;
-    left: 72%;
+    left: 71%;
     right: 0;
     margin-left: auto;
     margin-right: auto;
     top: 53%;
     transform: translate(-50%, -50%);
-}
-@media all and (max-width:756px){
-	.snlg_outline_box_planets .box_outline_planets_snlg {
-		left: 55%;
-	}
 }
 @media all and (max-width:594px){
 	.head_planets_txt{
@@ -1616,6 +1619,14 @@ html {
 		left: -309%!important;
 	}
 }
-.box_outline_planets_snlg {
-    width: 200px;
+@media all and (max-width:756px){
+	.snlg_outline_box_planets .box_outline_planets_snlg {
+		left: 55%;
+	}
+	.box_outline_planets_snlg {
+		width: 200px;
+	}
+}
+span.partir_txt {
+    font-size: 16px;
 }
