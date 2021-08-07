@@ -507,7 +507,7 @@
 						<p>CTO</p>
 					</div>
 					<div class="text_team">
-						<p>Blockchain developer with few years of experience in Hyperledger Fabric and Ethereum ecosystem. Passionate about distributed ledger technology building projects on Ethereum, EOS, Tezos and Stellar. Cryptocurrency enthusiast.</p>
+						<p>Michal during his 13-year professional path went through all positions in the software development process. He's a well-experienced team leader with crucial in this position soft skills and technical background. I can personally add that he is kind of genius with fast learning skills.</p>
 					</div>
 					<div class="social_ico_team">
 						<ul>
@@ -536,7 +536,7 @@
 						<p>Head of UX/UI</p>
 					</div>
 					<div class="text_team">
-						<p>Maciej Miłkowski is a world-class UX/UI expert. As the CEO of imTU company - specializing in design and development, he has acquired competencies that allow him to manage entire implementation processes. In StarTerra, he’s responsible for all that is visible. Personally also a great cryptocurrency enthusiast.</p>
+						<p>Maciej Miłkowski is a world-class UX/UI expert. As the CEO of <a href="https://imtu.pl" target="_blank">imTU</a> company - specializing in design and development, he has acquired competencies that allow him to manage entire implementation processes. In StarTerra, he’s responsible for all that is visible. Personally also a great cryptocurrency enthusiast.</p>
 					</div>
 					<div class="social_ico_team">
 						<ul>
@@ -570,7 +570,7 @@
 						<p>Solutions Architect</p>
 					</div>
 					<div class="text_team">
-						<p>One of the best blockchain expert in Poland. He leads his own channel on YouTube where he analysed more than 100 cryptocurrency projects and explained tons of technology related things. Presents attitude to always bring best working solution.</p>
+						<p>Tomasz is the most reputable blockchain expert in Poland. He is well known from his YT channel <a href="https://www.youtube.com/channel/UCDAgUeYcYhnhRaK2MAQGLbw" target="_blank" rel="nofollow">CryptoDev</a> to normalnie zalinkowane na target _ blank) where he educates people about technical aspects of Blockchain technology. With Tomasz onboard we have guarantee that our smart-contracts will be designed on the highest possible level</p>
 					</div>
 					<div class="social_ico_team">
 						<ul>
