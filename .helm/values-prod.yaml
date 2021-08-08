@@ -49,7 +49,7 @@ ingress:
       paths:
       - /
   tls:
-    - secretName: web-page-starterra-io
+    - secretName: starterra-io
       hosts:
       - starterra.io
 
