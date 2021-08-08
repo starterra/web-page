@@ -570,7 +570,7 @@
 						<p>Solutions Architect</p>
 					</div>
 					<div class="text_team">
-						<p>Tomasz is the most reputable blockchain expert in Poland. He is well known from his YT channel <a href="https://www.youtube.com/channel/UCDAgUeYcYhnhRaK2MAQGLbw" target="_blank" rel="nofollow">CryptoDev</a> to normalnie zalinkowane na target _ blank) where he educates people about technical aspects of Blockchain technology. With Tomasz onboard we have guarantee that our smart-contracts will be designed on the highest possible level</p>
+						<p>Tomasz is the most reputable blockchain expert in Poland. He is well known from his YT channel <a href="https://www.youtube.com/channel/UCDAgUeYcYhnhRaK2MAQGLbw" target="_blank" rel="nofollow">CryptoDev</a> where he educates people about technical aspects of Blockchain technology. With Tomasz onboard we have guarantee that our smart-contracts will be designed on the highest possible level</p>
 					</div>
 					<div class="social_ico_team">
 						<ul>
