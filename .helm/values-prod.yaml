@@ -1,11 +1,11 @@
 env: prod
-replicaCount: 1
+replicaCount: 3
 
 image:
   repository: 323224315211.dkr.ecr.eu-central-1.amazonaws.com/web-page
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 14afcee2c9dee553b7deb869594604a913f4ca77
+  tag: 26ceb9546e5daf5436547e0f6682a13b54a68bb8
 
 imagePullSecrets: []
 nameOverride: ""
@@ -47,13 +47,13 @@ ingress:
     nginx.ingress.kubernetes.io/auth-type: basic
     nginx.ingress.kubernetes.io/auth-secret: basic-auth
   hosts:
-    - host: 9b3cf0cb.starterra.io
+    - host: starterra.io
       paths:
       - /
   tls:
     - secretName: web-page-starterra-io
       hosts:
-      - 9b3cf0cb.starterra.io
+      - starterra.io
 
 
 resources: {}
