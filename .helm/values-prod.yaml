@@ -52,6 +52,7 @@ ingress:
     - secretName: starterra-io
       hosts:
       - starterra.io
+      - www.starterra.io
 
 
 resources: {}
