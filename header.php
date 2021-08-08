@@ -10,6 +10,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
 	<script src="/assets/jquery.min.js"></script>
+	<script src="/assets/subscribe.js"></script>
 	<script media="screen and (min-width:1000px)" src="/assets/TweenMax.min.js" ></script>
 	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 

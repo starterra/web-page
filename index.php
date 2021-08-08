@@ -11,19 +11,25 @@
 					<h1 class="h1_hero">
 					
 					<span class="frst_txt_hero">Welcome to <span class="bg_hero_font">Star</span><span class="bg_bold bg_hero_font">Terra</span>, the first</span> <span class="sec_txt_hero">gamified launchpad</span> for Terra</h1>
-					<div class="button_hero">
+					<div class="button_hero flex-start">
 						<a href="https://docs.google.com/forms/d/1-ZTTi4KW_7n8rcJ6J97MAMh_SImoyIdOc7B_HYtg_XI/" target="_blank" class="btn btn-secondary">Apply for IDO</a>
 						<span class="newsletter_starterra">
 							<form action="https://app.getresponse.com/add_subscriber.html" accept-charset="utf-8" method="post">
-	
- <input type="text" name="email" placeholder="Your E-mail"/>
-	
-	<input type="hidden" name="campaign_token" value="BrJMb" />
-	<input type="hidden" name="thankyou_url" value="https://starterra.io/thankyou
-"/>
-	<input type="hidden" name="start_day" value="0" />
-	<input type="submit" value="Subscribe"/>
-</form>
+                                <div class="hero-flex-c">
+                                <div class="hero-flex-r">
+                                <input type="text" name="email" placeholder="Your E-mail"/>
+
+                                <input type="hidden" name="campaign_token" value="BrJMb" />
+                                <input type="hidden" name="thankyou_url" value="https://starterra.io/thankyou"/>
+                                <input type="hidden" name="start_day" value="0" />
+                                <input type="submit" value="Subscribe" id="subscribe"/>
+                                </div>
+                                <label class="checkbox-container">I accept <a href="/legals/term_and_conditions.pdf" target="_blank">Terms & Conditions</a> and <a href="/legals/privacy_policy.pdf" target="_blank">Privacy Policy</a>.
+                                  <input type="checkbox" required id="legals" name="legals">
+                                  <span class="checkmark" id="checkmark"></span>
+                                </label>
+                                </div>
+                            </form>
 						</span>
 					</div>
 				</div>
