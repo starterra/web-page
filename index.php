@@ -67,7 +67,7 @@
 						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="93" viewBox="0 0 93 93"> <defs> <filter id="Ellipse_730" x="0" y="0" width="93" height="93" filterUnits="userSpaceOnUse"> <feOffset input="SourceAlpha"/> <feGaussianBlur stdDeviation="3" result="blur"/> <feFlood flood-color="#fe0"/> <feComposite operator="in" in2="blur"/> <feComposite in="SourceGraphic"/> </filter> </defs> <g id="Group_3696" data-name="Group 3696" transform="translate(-534 -942)"> <g transform="matrix(1, 0, 0, 1, 534, 942)" filter="url(#Ellipse_730)"> <g id="Ellipse_730-2" data-name="Ellipse 730" transform="translate(9 9)" fill="none" stroke="#fe0" stroke-width="2"> <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/> <circle cx="37.5" cy="37.5" r="36.5" fill="none"/> </g> </g> <path id="Path_3332" data-name="Path 3332" d="M381.567,155.629a13.994,13.994,0,1,1,13.991-13.992A14.008,14.008,0,0,1,381.567,155.629Zm0-26.695a12.7,12.7,0,1,0,12.7,12.7,12.582,12.582,0,0,0-1.328-5.63l-.743-1.5-11.318,11.318-3.605-3.6a.644.644,0,0,1,.457-1.1.638.638,0,0,1,.455.189l2.693,2.694L391.39,133.5l-.85-.849A12.618,12.618,0,0,0,381.567,128.934Z" transform="translate(198.934 846.863)" fill="#fe0"/> </g> </svg>
 					</div>
 					<div class="ico_txt_about_section">
-						<p>Gamified NFT Integration Allocation</p>
+						<p>Gamified NFT Integration</p>
 					</div>
 				</div>
 				
