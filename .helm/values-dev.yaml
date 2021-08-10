@@ -1,0 +1,77 @@
+env: prod
+replicaCount: 3
+
+image:
+  repository: 323224315211.dkr.ecr.eu-central-1.amazonaws.com/web-page
+  pullPolicy: IfNotPresent
+  # Overrides the image tag whose default is the chart appVersion.
+  tag: 88e6a5c43b2290d6650d1ab9b1b20544664e7055
+
+imagePullSecrets: []
+nameOverride: ""
+fullnameOverride: ""
+
+serviceAccount:
+  # Specifies whether a service account should be created
+  create: true
+  # Annotations to add to the service account
+  annotations: {}
+  # The name of the service account to use.
+  # If not set and create is true, a name is generated using the fullname template
+  name: ""
+
+podAnnotations: {}
+
+podSecurityContext: {}
+  # fsGroup: 2000
+
+securityContext: {}
+  # capabilities:
+  #   drop:
+  #   - ALL
+  # readOnlyRootFilesystem: true
+  # runAsNonRoot: true
+  # runAsUser: 1000
+
+service:
+  type: ClusterIP
+  port: 3000
+
+ingress:
+  enabled: true
+  annotations:
+    kubernetes.io/tls-acme: "true"
+    cert-manager.io/acme-challenge-type: dns01
+    cert-manager.io/acme-dns01-provider: route53
+    cert-manager.io/cluster-issuer: letsencrypt
+    kubernetes.io/ingress.class: internal-nginx
+    nginx.ingress.kubernetes.io/from-to-www-redirect: "true"
+  hosts:
+    - host: web.dev.local.starterra.io
+      paths:
+      - /
+  tls:
+    - secretName: web-dev-local-starterra-io
+      hosts:
+      - web.dev.local.starterra.io
+      - www.web.dev.local.starterra.io
+
+resources:
+  limits:
+    memory: 200Mi
+    cpu: 300m
+  requests:
+    memory: 50Mi
+    cpu: 50m
+
+autoscaling:
+  enabled: true
+  minReplicas: 2
+  maxReplicas: 5
+  targetCPUUtilizationPercentage: 70
+
+nodeSelector: {}
+
+tolerations: []
+
+affinity: {}
