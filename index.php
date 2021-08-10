@@ -24,7 +24,7 @@
                                 <input type="hidden" name="start_day" value="0" />
                                 <input type="submit" value="Subscribe" id="subscribe"/>
                                 </div>
-                                <label class="checkbox-container">I accept <a href="/legals/term_and_conditions.pdf" target="_blank">Terms & Conditions</a> and <a href="/legals/privacy_policy.pdf" target="_blank">Privacy Policy</a>.
+                                <label class="checkbox-container">I have read the <a href="/legals/privacy_policy.pdf" target="_blank">Privacy Policy</a> and I give consent to ST Development Limited for receiving commercial information, in particular newsletters.
                                   <input type="checkbox" required id="legals" name="legals">
                                   <span class="checkmark" id="checkmark"></span>
                                 </label>
