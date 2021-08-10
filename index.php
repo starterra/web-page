@@ -377,7 +377,7 @@
 						<p>Strategic Partner & Investor</p>
 					</div>
 					<div class="text_team">
-						<p>Kamil Jarzombek is one of the most reputable cryptocurrency experts and market specialists in Poland. He's been running his YouTube channel which is valued for professional fundamental analysis with a great focus on tokenomics. He's also an ICO investor & early adopter of $ETH</p>
+						<p>Kamil Jarzombek is one of the most reputable cryptocurrency experts and market specialists in Poland. He's been running his <a href="https://www.youtube.com/channel/UCsaWU2rEXFkufFN_43jH2MA" target="_blank">YouTube</a> channel which is valued for professional fundamental analysis with a great focus on tokenomics. He's also an ICO investor & early adopter of $ETH</p>
 					</div>
 					<div class="social_ico_team">
 						<ul>

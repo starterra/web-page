@@ -1735,3 +1735,8 @@ span.partir_txt {
         top: 20px;
     }
 }
+
+/* Text team */
+.text_team a {
+    color: #ffee00;
+}
