@@ -377,7 +377,7 @@
 						<p>Strategic Partner & Investor</p>
 					</div>
 					<div class="text_team">
-						<p>Kamil Jarzombek is one of the most reputable cryptocurrency experts and market specialists in Poland. He's been running his YouTube channel which is valued for professional fundamental analysis with a great focus on tokenomics. He's also an ICO investor & early adopter of $ETH</p>
+						<p>Kamil Jarzombek is one of the most reputable cryptocurrency experts and market specialists in Poland. He's been running his <a href="https://www.youtube.com/channel/UCsaWU2rEXFkufFN_43jH2MA" target="_blank">YouTube</a> channel which is valued for professional fundamental analysis with a great focus on tokenomics. He's also an ICO investor & early adopter of $ETH</p>
 					</div>
 					<div class="social_ico_team">
 						<ul>
@@ -542,7 +542,7 @@
 						<p>Head of UX/UI</p>
 					</div>
 					<div class="text_team">
-						<p>Maciej Milkowski is a world-class UX/UI expert. As the CEO of <a href="https://imtu.pl" target="_blank">imTU</a> company - specializing in design and development, he has acquired competencies that allow him to manage entire implementation processes. In StarTerra, he’s responsible for all that is visible. Personally also a great cryptocurrency enthusiast.</p>
+						<p>Maciej Miłkowski is a world-class UX/UI expert. As the CEO of <a href="https://imtu.pl" target="_blank">imTU</a> company - specializing in design and development, he has acquired competencies that allow him to manage entire implementation processes. In StarTerra, he’s responsible for all that is visible. Personally also a great cryptocurrency enthusiast.</p>
 					</div>
 					<div class="social_ico_team">
 						<ul>
