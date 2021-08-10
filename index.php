@@ -12,7 +12,7 @@
 					
 					<span class="frst_txt_hero">Welcome to <span class="bg_hero_font">Star</span><span class="bg_bold bg_hero_font">Terra</span>, the first</span> <span class="sec_txt_hero">gamified launchpad</span> for Terra</h1>
 					<div class="button_hero flex-start">
-						<a href="https://docs.google.com/forms/d/1-ZTTi4KW_7n8rcJ6J97MAMh_SImoyIdOc7B_HYtg_XI/" target="_blank" class="btn btn-secondary">Apply for IDO</a>
+						<a href="https://drive.google.com/file/d/1LWah3Lt1FnyDzFK57mTXFQCqPSu8ovWu/view" target="_blank" class="btn btn-secondary">Whitepaper</a>
 						<span class="newsletter_starterra">
 							<form action="https://app.getresponse.com/add_subscriber.html" accept-charset="utf-8" method="post">
                                 <div class="hero-flex-c">
@@ -24,7 +24,7 @@
                                 <input type="hidden" name="start_day" value="0" />
                                 <input type="submit" value="Subscribe" id="subscribe"/>
                                 </div>
-                                <label class="checkbox-container">I accept <a href="/legals/term_and_conditions.pdf" target="_blank">Terms & Conditions</a> and <a href="/legals/privacy_policy.pdf" target="_blank">Privacy Policy</a>.
+                                <label class="checkbox-container">I have read the <a href="/legals/privacy_policy.pdf" target="_blank">Privacy Policy</a> and I give consent to ST Development Limited for receiving commercial information, in particular newsletters.
                                   <input type="checkbox" required id="legals" name="legals">
                                   <span class="checkmark" id="checkmark"></span>
                                 </label>
