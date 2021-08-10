@@ -542,7 +542,7 @@
 						<p>Head of UX/UI</p>
 					</div>
 					<div class="text_team">
-						<p>Maciej Miłkowski is a world-class UX/UI expert. As the CEO of <a href="https://imtu.pl" target="_blank">imTU</a> company - specializing in design and development, he has acquired competencies that allow him to manage entire implementation processes. In StarTerra, he’s responsible for all that is visible. Personally also a great cryptocurrency enthusiast.</p>
+						<p>Maciej Milkowski is a world-class UX/UI expert. As the CEO of <a href="https://imtu.pl" target="_blank">imTU</a> company - specializing in design and development, he has acquired competencies that allow him to manage entire implementation processes. In StarTerra, he’s responsible for all that is visible. Personally also a great cryptocurrency enthusiast.</p>
 					</div>
 					<div class="social_ico_team">
 						<ul>
