@@ -22,6 +22,8 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN_SERVICE_ACCOUNT }}
       - name: setup qemu
         uses: docker/setup-qemu-action@v1
       - name: setup docker buildx
@@ -40,3 +42,13 @@ jobs:
         with:
           tags: 323224315211.dkr.ecr.eu-central-1.amazonaws.com/web-page:${{ github.sha }}
           push: true
+      - name: commit tag on dev
+        run: 'sed -i "s/tag: .*/tag: ${{ github.sha }}/g" .helm/values-dev.yaml'
+      - uses: EndBug/add-and-commit@v5.2.0
+        with:
+          author_name: Starterra Service Account
+          author_email: service-account@starterra.io
+          message: '[ci skip] Bump dev environment to ${{ github.sha }}'
+          push: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_SERVICE_ACCOUNT }}
