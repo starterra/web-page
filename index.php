@@ -19,7 +19,7 @@
                                 <div class="hero-flex-r">
                                 <input type="text" name="email" placeholder="Your E-mail"/>
 
-                                <input type="hidden" name="campaign_token" value="BrJMb" />
+                                <input type="hidden" name="campaign_token" value="BNmi7" />
                                 <input type="hidden" name="thankyou_url" value="https://starterra.io/thankyou/"/>
                                 <input type="hidden" name="start_day" value="0" />
                                 <input type="submit" value="Subscribe" id="subscribe"/>
