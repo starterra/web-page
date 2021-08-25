@@ -726,11 +726,25 @@ footer {
 }
 @media all and (min-width:1251px){
 	.button_mobile,
-	.primary_menu_mobile{
+	.primary_menu_mobile,
+	.launch_mobile{
 		display:none
 	}
+	
 	.hero_section_front{
 		background-image:url(/image/starterratlo.jpg)
+	}
+}
+.button_mobile{
+	padding-left: 24px;
+}
+@media all and (max-width:425px){ 
+	.launch_mobile a{
+		font-size: 12px;
+		padding: 10px 15px
+	}
+	.button_mobile{
+		padding-left: 16px;
 	}
 }
 @media all and (max-width:1251px){
@@ -968,7 +982,7 @@ footer {
 		white-space: nowrap;
 	}
 	.copyright_footer p {
-		font-size: 11px;
+		font-size: 12px;
 	}
 	.sm_footer ul {
 		white-space:nowrap
@@ -1615,6 +1629,18 @@ span.newsletter_starterra input[type="submit"]{
     width: 28px;
     height: 28px;
 }
+.sm_footer .padding-top {
+	padding-top: 8px;
+}
+.sm_footer li {
+	line-height: 20px;
+}
+@media (max-width: 425px){
+	.sm_footer svg {
+			width: 16px;
+			height: 16px;
+	}
+}
 .sm_footer svg path{
 	fill:#fff
 }
@@ -1777,4 +1803,20 @@ span.partir_txt {
 	.footer-flex-direction-container .sm_footer{
 		padding-top: 24px;
 	}
+}
+
+.flex-one {
+	flex: 1 0 auto;
+}
+
+.flex-three-fourth {
+	flex-basis: 75%;
+}
+
+.align-items-center {
+	align-items: center;
+}
+
+.footer-margin-right {
+	margin-right: 20px;
 }
