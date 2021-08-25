@@ -195,6 +195,16 @@ span.frst_txt_hero {
     font-weight: 700;
 	display: inline-block;
 }
+.btn.contained {
+	background-color: #FFEE00;
+	color: black;
+}
+.btn.contained:hover {
+	color:black;
+}
+.btn.btn-secondary.contained:hover {
+	color:black;
+}
 .button_hero a.btn.btn-secondary {
     margin-right: 30px;
 }
@@ -668,6 +678,13 @@ p.white_title_tokenics {
 footer {
     background: #19202B;
 	padding:25px 0
+}
+.copyright_footer {
+	padding-top: 24px;
+	align-items: center;
+}
+.copyright_footer > div {
+	margin-left: 24px;
 }
 .copyright_footer p {
     margin: 0;
@@ -1739,4 +1756,25 @@ span.partir_txt {
 /* Text team */
 .text_team a {
     color: #ffee00;
+}
+
+.no-wrap {
+	white-space: nowrap;
+}
+
+.footer-flex-direction-container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+@media all and (max-width:756px){
+	.footer-flex-direction-container{
+		display: flex;
+		flex-direction: column;
+	}
+	.footer-flex-direction-container .sm_footer{
+		padding-top: 24px;
+	}
 }

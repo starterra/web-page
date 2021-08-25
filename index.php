@@ -12,7 +12,7 @@
 					
 					<span class="frst_txt_hero">Welcome to <span class="bg_hero_font">Star</span><span class="bg_bold bg_hero_font">Terra</span>, the first</span> <span class="sec_txt_hero">gamified launchpad</span> for Terra</h1>
 					<div class="button_hero flex-start">
-						<a href="https://drive.google.com/file/d/1LWah3Lt1FnyDzFK57mTXFQCqPSu8ovWu/view" target="_blank" class="btn btn-secondary">Whitepaper</a>
+						<a href="https://docs.google.com/forms/d/1-ZTTi4KW_7n8rcJ6J97MAMh_SImoyIdOc7B_HYtg_XI/" target="_blank" class="btn btn-secondary no-wrap">Apply for IDO</a>
 						<span class="newsletter_starterra">
 							<form action="https://app.getresponse.com/add_subscriber.html" accept-charset="utf-8" method="post">
                                 <div class="hero-flex-c">
