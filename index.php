@@ -12,7 +12,7 @@
 					
 					<span class="frst_txt_hero">Welcome to <span class="bg_hero_font">Star</span><span class="bg_bold bg_hero_font">Terra</span>, the first</span> <span class="sec_txt_hero">gamified launchpad</span> for Terra</h1>
 					<div class="button_hero flex-start">
-						<a href="https://app.starterra.io/swap" class="btn btn-secondary no-wrap">Buy $STT</a>
+						<a href="https://app.starterra.io/swap" class="btn btn-secondary no-wrap contained">Buy $STT</a>
 						<span class="newsletter_starterra">
 							<form action="https://app.getresponse.com/add_subscriber.html" accept-charset="utf-8" method="post">
                                 <div class="hero-flex-c">
