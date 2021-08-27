@@ -31,7 +31,7 @@
 				</div>
 				<div class="hero-flex-r align-items-center">
 					<div class="launch_mobile">
-						<a href="https://app.starterra.io" target="_blank" class="btn btn-secondary coming_soon_btn contained">Launch App</a>
+						<a href="https://app.starterra.io/home" target="_blank" class="btn btn-secondary coming_soon_btn contained">Launch App</a>
 					</div>
 					<div class="button_mobile">
 						<svg xmlns="http://www.w3.org/2000/svg" width="27" height="21" viewBox="0 0 27 21"> <g id="Group_3693" data-name="Group 3693" transform="translate(-313 -28.5)"> <line id="Line_1259" data-name="Line 1259" x2="20" transform="translate(320 30)" fill="none" stroke="#fff" stroke-width="3"/> <line id="Line_1260" data-name="Line 1260" x2="27" transform="translate(313 39)" fill="none" stroke="#fff" stroke-width="3"/> <line id="Line_1261" data-name="Line 1261" x2="13" transform="translate(327 48)" fill="none" stroke="#fff" stroke-width="3"/> </g> </svg>
