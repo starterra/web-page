@@ -41,3 +41,10 @@ jobs:
           push: true
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_SERVICE_ACCOUNT }}
+      - name: clear cloudflare cache
+        run: |
+          curl -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE }}/purge_cache" \
+          -H "X-Auth-Email: service-account@starterra.io" \
+          -H "X-Auth-Key: ${{ secrets.CLOUDFLARE_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          --data '{"purge_everything":true}'
