@@ -541,9 +541,10 @@ p.white_title_tokenics {
 .road_map_section_hp .h3_about{
 	white-space: nowrap;
 }
-.svg_three_col svg{
-	width: 130%!important;
-    height: auto!important;
+.img_three_col img{
+	width: 130% !important;
+    height: auto !important;
+    max-width: unset !important;
 }
 .two_col_three_road {
     display: grid;
