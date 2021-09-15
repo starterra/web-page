@@ -5,7 +5,7 @@ image:
   repository: 323224315211.dkr.ecr.eu-central-1.amazonaws.com/web-page
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: eba76c34f222b6e01f4c564ea37fdb96ef877e2c
+  tag: d46542e543fd042f1de0808a1317f932386f0a78
 
 imagePullSecrets: []
 nameOverride: ""
