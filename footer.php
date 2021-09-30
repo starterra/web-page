@@ -10,7 +10,7 @@
 				<div class="sm_footer footer-margin-right">
 					<ul class="hero-flex-c">
 						<li>
-							<a href="https://drive.google.com/file/d/1ZPFIDDQlKYue15TFXPqlhb98ibCWu_zw/view" target="_blank" rel="nofollow">Whitepaper</a>
+							<a href="https://drive.google.com/file/d/1o0SlAth8HWt9V98Pj8N7qiXC2qGYK18a/view" target="_blank" rel="nofollow">Whitepaper</a>
 						</li>
 						<li class="padding-top">
 							<a href="https://docs.google.com/forms/d/1-ZTTi4KW_7n8rcJ6J97MAMh_SImoyIdOc7B_HYtg_XI/" target="_blank" rel="nofollow">Apply for IDO</a>
