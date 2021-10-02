@@ -18,7 +18,9 @@
 						<li class="padding-top">
 							<a href="https://starterra.io/legals/privacy_policy.pdf" target="_blank" rel="nofollow">Privacy Policy</a>
 						</li>
-						
+						<li class="padding-top">
+							<a href="https://starterra.io/legals/aml_and_kyc_policy.pdf" target="_blank" rel="nofollow">AML & KYC Policy</a>
+						</li>
 					</ul>
 				</div>
 			</div>
