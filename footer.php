@@ -19,7 +19,7 @@
 							<a href="https://starterra.io/legals/privacy_policy.pdf" target="_blank" rel="nofollow">Privacy Policy</a>
 						</li>
 						<li class="padding-top">
-							<a href="https://starterra.io/legals/aml_and_kyc_policy.pdf" target="_blank" rel="nofollow">AML & KYC Policy</a>
+							<a href="https://drive.google.com/file/d/1xa-JrLLGePQOhi3KG2jojzC8y7CDwLFk/view" target="_blank" rel="nofollow">AML & KYC Policy</a>
 						</li>
 					</ul>
 				</div>
