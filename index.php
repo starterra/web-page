@@ -143,7 +143,7 @@
 							<p class="ltl_planets_txt">TIER <span>5</span></p>
 							<h4 class="head_planets_txt">Whalecraft</h4>
 							<p class="top_txt_ltl_big">TOP Wallets</p>
-							<p class="bottom_txt_ltl_big">Pool Weight 30%</p>
+							<p class="bottom_txt_ltl_big">Pool Weight 20%</p>
 							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed</p>
 						</div>
 					</div>
@@ -155,8 +155,8 @@
 						<div class="box_outline_planets_snlg">
 							<p class="ltl_planets_txt">TIER <span>4</span></p>
 							<h4 class="head_planets_txt">Interstellars</h4>
-							<p class="top_txt_ltl_big">3000 staked STT</p>
-							<p class="bottom_txt_ltl_big">Pool Weight 15% + Up to 20%</p>
+							<p class="top_txt_ltl_big">3000 StarTerra Energy</p>
+							<p class="bottom_txt_ltl_big">Pool Weight 15% + Up to 15%</p>
 							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed & Lottery</p>
 						</div>
 					</div>
@@ -169,8 +169,8 @@
 						<div class="box_outline_planets_snlg">
 							<p class="ltl_planets_txt">TIER <span>3</span></p>
 							<h4 class="head_planets_txt">Degens</h4>
-							<p class="top_txt_ltl_big">3000 staked STT</p>
-							<p class="bottom_txt_ltl_big">Pool Weight 15% + Up to 20%</p>
+							<p class="top_txt_ltl_big">3000 StarTerra Energy</p>
+							<p class="bottom_txt_ltl_big">Pool Weight 15% + Up to 15%</p>
 							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed & Lottery</p>
 						</div>
 					</div>
@@ -184,8 +184,8 @@
 						<div class="box_outline_planets_snlg">
 							<p class="ltl_planets_txt">TIER <span>2</span></p>
 							<h4 class="head_planets_txt">Lunatics</h4>
-							<p class="top_txt_ltl_big">3000 staked STT</p>
-							<p class="bottom_txt_ltl_big">Pool Weight 15% + Up to 20%</p>
+							<p class="top_txt_ltl_big">3000 StarTerra Energy</p>
+							<p class="bottom_txt_ltl_big">Pool Weight 15% + Up to 15%</p>
 							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed & Lottery</p>
 						</div>
 					</div>
@@ -199,9 +199,9 @@
 						<img src="/image/Tier__01.png">
 						<div class="box_outline_planets_snlg">
 							<p class="ltl_planets_txt">TIER <span>1</span></p>
-							<h4 class="head_planets_txt">StarTerra</h4>
-							<p class="top_txt_ltl_big">500 staked STT</p>
-							<p class="bottom_txt_ltl_big">Pool Weight 5%</p>
+							<h4 class="head_planets_txt">Recruits</h4>
+							<p class="top_txt_ltl_big">250 StarTerra Energy</p>
+							<p class="bottom_txt_ltl_big">Pool Weight 20%</p>
 							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Lottery</p>
 						</div>
 					</div>
