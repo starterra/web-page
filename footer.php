@@ -21,6 +21,9 @@
 						<li class="padding-top">
 							<a href="https://drive.google.com/file/d/1xa-JrLLGePQOhi3KG2jojzC8y7CDwLFk/view" target="_blank" rel="nofollow">AML & KYC Policy</a>
 						</li>
+						<li class="padding-top">
+							<a href="https://drive.google.com/file/d/1OkLhO3umUuYUE1HbkM97Y4G-54yVCoe3/view" target="_blank" rel="nofollow">Branding</a>
+						</li>
 					</ul>
 				</div>
 			</div>
