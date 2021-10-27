@@ -409,7 +409,7 @@
 						<h5 class="name_h5">Wojciech <span>Gruszka</span></h5>
 					</div>
 					<div class="position_team">
-						<p>CEO & Founder</p>
+						<p>CEO</p>
 					</div>
 					<div class="text_team">
 						<p>Wojciech Gruszka (PanParagraf) is a lawyer and blockchain projects advisor. Thanks to his experience gained in international corporations such as Deloitte and Shell he's been successfully advising various fintech organisations. Known to a wider audience for his Twitter profile based on extensive tokenomics analysis.</p>
