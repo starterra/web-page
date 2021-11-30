@@ -91,18 +91,6 @@
 					</div>
 				</div>
 				
-				<div class="column_about_section">
-					<div class="ico_about_section">
-						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="93" viewBox="0 0 93 93"> <defs> <filter id="Ellipse_736" x="0" y="0" width="93" height="93" filterUnits="userSpaceOnUse"> <feOffset input="SourceAlpha"/> <feGaussianBlur stdDeviation="3" result="blur"/> <feFlood flood-color="#fe0"/> <feComposite operator="in" in2="blur"/> <feComposite in="SourceGraphic"/> </filter> </defs> <g id="Group_3740" data-name="Group 3740" transform="translate(-534 -1067)"> <g transform="matrix(1, 0, 0, 1, 534, 1067)" filter="url(#Ellipse_736)"> <g id="Ellipse_736-2" data-name="Ellipse 736" transform="translate(9 9)" fill="none" stroke="#fe0" stroke-width="2"> <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/> <circle cx="37.5" cy="37.5" r="36.5" fill="none"/> </g> </g> <text id="_20_" data-name="20%" transform="translate(563 1119.95)" fill="#fe0" font-size="18" font-family="Raleway-Medium, Raleway" font-weight="500" letter-spacing="0.01em"><tspan x="0" y="0">20%</tspan></text> </g> </svg>
-					</div>
-					<div class="ico_txt_about_section">
-						<p>20% Yield on Deposits</p>
-					</div>
-				</div>
-				
-				
-				
-				
 				
 				<div class="column_about_section">
 					<div class="ico_about_section">
