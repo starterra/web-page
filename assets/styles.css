@@ -879,17 +879,6 @@ footer {
 .hero_section_front {
     overflow: hidden;
 }
-@media all and (max-width:1002px){
-	.columns_two_tokenics_pp{
-		grid-template-columns:100%
-	}
-	.single_column_tokenomics.first_sngl_col_tokenomics {
-		margin-bottom: 20px;
-	}
-	.tokenomics_section_hp:before{
-		display:none
-	}
-}
 .left_col_hero {
     position: relative;
     z-index: 15;
@@ -1015,6 +1004,19 @@ footer {
 }
 .single_column_tokenomics.first_sngl_col_tokenomics {
     position: relative;
+    grid-column-start: span 2;
+}
+@media all and (max-width:1002px){
+	.columns_two_tokenics_pp{
+		grid-template-columns:100%
+	}
+	.single_column_tokenomics.first_sngl_col_tokenomics {
+		margin-bottom: 20px;
+		grid-column-start: auto;
+	}
+	.tokenomics_section_hp:before{
+		display:none
+	}
 }
 .lines_pp_planets{
 	position: absolute;
