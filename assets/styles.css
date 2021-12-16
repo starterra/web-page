@@ -1549,18 +1549,20 @@ p.top_txt_ltl_big {
 .newsletter_starterra form {
     display: inline;
 }
+
 span.newsletter_starterra input[type="text"] {
     border: 3px solid #ffee00;
-    height: 58px;
+    height: 43px;
     border-radius: 130px;
-    padding: 29px;
-    font-size: 16px;
+    padding: 15px 29px;
+    font-size: 13px;
 	outline:none!important;
     color: #fff;
 	border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
 	font-weight:700;
-	max-width: 250px;
+	max-width: 312px;
+	width: 100%;
 	margin-right: -40px;
 	padding-right: 54px;
 	background:transparent!important
@@ -1569,12 +1571,13 @@ span.newsletter_starterra input[type="text"]::placeholder{
 	color: #fff;
 }
 span.newsletter_starterra input[type="submit"] {
-    height: 58px;
+    height: 43px;
     border-radius: 130px;
     outline: none;
     
-    padding: 29px;
-    font-size: 16px;
+
+    padding: 15px 29px;
+		font-size: 13px;
     line-height: 0;
     border: 3px solid #ffee00;
 	background:#ffee00;
@@ -1618,6 +1621,7 @@ span.newsletter_starterra input[type="submit"]{
 }
 .sm_footer li {
 	line-height: 20px;
+	font-size: 12px;
 }
 @media (max-width: 425px){
 	.sm_footer svg {
@@ -1669,13 +1673,14 @@ span.partir_txt {
     padding-left: 25px;
     margin-bottom: 12px;
     cursor: pointer;
-    font-size: 14px;
+    font-size: 10px;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
     margin-top: 10px;
     margin-left: 25px;
+		max-width: 373px;
 }
 
 /* Hide the browser's default checkbox */
