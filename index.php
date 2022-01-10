@@ -418,8 +418,8 @@
 			<div class="col_three_right_road">
 				<div class="two_col_three_three_road">
 					<div class="img_three_col">
-					<img src="image/roadmap/Q4_21_Desktop.svg" />
-						</div>
+						<img src="image/roadmap/Q4_21_Desktop.svg" />
+					</div>
 				</div>
 			</div>
 		</div>
@@ -428,7 +428,7 @@
 				<div class="container_pp">
 					<div class="mobile_gal">
 						<img src="image/roadmap/Q4_21_Mobile.svg" />
-						</div>
+					</div>
 				</div>
 			</div>
 			<div class="container_pp dsp_mobile">

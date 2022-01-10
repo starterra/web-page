@@ -908,7 +908,7 @@ footer {
 	}
 	.mobie_road_gal img {
 		max-width: inherit;
-		width: 800px;
+		width: 100%;
 		position: relative;
 		left: -46px;
 		overflow: hidden;
@@ -922,6 +922,26 @@ footer {
 	}
 	.mobie_road_gal > div.container_pp {
 		overflow: hidden;
+	}
+	.mobie_road_gal:after {
+		content: " ";
+		display: block;
+		width: 100%;
+		height: 50px;
+		position: absolute;
+		bottom: 0;
+		background-image: linear-gradient(0deg,rgba(25,32,43,1) 50%, rgba(25,32,43,0.8) 73%, rgba(25,32,43,0.55) 88%, rgba(25,32,43,0) 100%);
+		z-index: 5;
+	}
+	.mobie_road_gal:before {
+		content: " ";
+		display: block;
+		width: 100%;
+		height: 50px;
+		position: absolute;
+		top: 0;
+		background-image: linear-gradient(180deg, rgba(25,32,43,1) 50%, rgba(25,32,43,0.8) 73%, rgba(25,32,43,0.55) 88%, rgba(25,32,43,0) 100%);
+		z-index: 5;
 	}
 }
 @media all and (min-width:1025px){
