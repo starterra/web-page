@@ -70,6 +70,7 @@
 	</div>
 </footer>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="/assets/slick.min.js"></script>
 <script>
 jQuery(function($) {
 	$.fn.parallax = function(resistance, mouse) {
@@ -130,5 +131,6 @@ window.scrollBy({
   behavior: 'smooth' 
 });
 </script>
+<script src="/assets/custom.js"></script>
 </body>
 </html>

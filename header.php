@@ -13,6 +13,7 @@
 	<script src="/assets/subscribe.js"></script>
 	<script media="screen and (min-width:1000px)" src="/assets/TweenMax.min.js" ></script>
 	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+	<link href="/assets/slick.css" rel="stylesheet">
 
 	
 </head>

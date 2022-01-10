@@ -222,7 +222,7 @@ a.btn.btn-primary:hover{
 	color:#19212E
 }
 .about_section_home {
-    padding: 110px 0;
+    padding: 110px 0 0px 0
 }
 .columns_about_section {
     display: grid;
@@ -1187,6 +1187,21 @@ footer {
 .image_kwon:hover{
 	background-image:url(/image/kwon_hover.png)
 }
+.img_milkowski{
+	background-image:url(/image/A02%20%281%29.jpg)
+}
+.img_milkowski:hover{
+	background-image:url(/image/A01%20%281%29.jpg)
+}
+.img_kowalczyk{
+	background-image:url(/image/03B%20%281%29.jpg)
+}
+.img_kowalczyk:hover{
+	background-image:url(/image/03A%20%281%29.jpg)
+}
+.image_prof_border {
+    border: 2px solid #fff;
+}
 @media all and (max-width:426px){
 	.box_outline_planets_snlg{
 		font-size:12px
@@ -1808,4 +1823,192 @@ span.partir_txt {
 
 .footer-margin-right {
 	margin-right: 20px;
+}
+.d-flex {
+    display: flex;
+}
+.columns_sales > div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.image__sales img{
+	width:250px;
+}
+.token_name__sales{
+	font-weight: 700;
+    font-family: 'Orbitron', sans-serif;
+    color: #FFEE00;
+	font-size: 24px;
+}
+.token_btn_yellow__sales a,
+.token_btn_white__sales{
+	font-weight: 700;
+    font-family: 'Orbitron', sans-serif;
+	font-size: 18px;
+	letter-spacing: 0.18px;
+	display:inline-block
+}
+.token_btn_yellow__sales a{
+    color: #FFEE00
+}
+p.token_btn_white__sales{
+	color:#fff
+}
+.token_btn_yellow__sales a:hover{
+	color:#fff
+}
+.column__columns_sales p{
+	margin:0
+}
+p.token_name__sales{
+	margin-bottom:10px
+}
+.column__columns_sales{
+	margin-left:30px
+}
+.column_border__sales:after{
+	content: "";
+    display: block;
+    width: 100vw;
+    height: 75%;
+    position: absolute;
+    top: auto;
+    bottom: auto;
+    left: 60px;
+	box-shadow: inset 0 0 15px 0 #000;
+    border: solid 2px #40444a;
+    z-index: -1;
+}
+.columns_sales > div {
+    margin-bottom: 30px;
+}
+.columns_sales > div:last-child {
+    margin-bottom: 0px;
+}
+.arrow_2 > span {
+    border: solid #fff;
+    border-width: 0 0.1em 0.1em 0;
+    display: inline-block;
+    padding: 0.09em;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+	vertical-align:middle
+}
+.arrow_2 > span:last-child {
+    position: relative;
+    left: -4px;
+}
+.columns_sales{
+	margin-top:40px
+}
+.sales_home_section {
+    overflow: hidden;
+}
+@media all and (max-width:1199px){
+	.columns_sales > div {
+		grid-template-columns: 1fr;
+	}
+	.columns_sales > div {
+		margin-bottom: 20px;
+	}
+	.column_border__sales {
+		margin-bottom:20px
+	}
+	.columns_sales > div:last-child .column_border__sales:last-child{
+		margin-bottom:0
+	}
+	.column_border__sales:after{
+		display:none
+	}
+	.column__sales{
+		position:relative
+	}
+	.column__sales:after{
+		content: "";
+		display: block;
+		width: 100vw;
+		height: 75%;
+		position: absolute;
+		top: auto;
+		bottom: auto;
+		left: 60px;
+		box-shadow: inset 0 0 15px 0 #000;
+		border: solid 2px #40444a;
+		z-index: -1;
+	}
+}
+@media all and (max-width:768px){
+	.token_name__sales{
+		font-size:18px
+	}
+	.token_btn_yellow__sales a, .token_btn_white__sales{
+		font-size:15px
+	}
+	.image__sales img {
+		width: 130px;
+	}
+	p.token_name__sales {
+		margin-bottom: 5px;
+	}
+}
+.completed_sales_section{
+	margin-top:130px;
+	margin-bottom:100px
+}
+.completed_sales_carousel_section {
+    margin-top: 50px;
+}
+.completed_sales_carousel_section {
+    margin-top: 45px;
+    border-top: solid 2px #40444a;
+    border-bottom: solid 2px #40444a;
+    padding: 20px 0;
+}
+.sales_home_section {
+    padding-top: 110px;
+}
+.single_c_completed_sales {
+    padding: 0 50px;
+}
+.single_c_completed_sales img{
+	margin:0 auto
+}
+@media all and (min-width:650px){
+	.single_c_completed_sales {
+		border-right: 2px solid #40444a;
+	}
+}
+.completed_sales_bottom{
+	position:relative
+}
+.arrow_prev, .arrow_next {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+	padding: 10px;
+	z-index:9
+}
+.arrow_prev{
+	left:0
+}
+.arrow_next{
+	right:0
+}
+.completed_sales_bottom .arrow_next,
+.completed_sales_bottom .arrow_prev {
+    background: #10161E;
+}
+@media all and (max-width:650px){
+	.completed_sales_section{
+		margin-bottom: 50px;
+		margin-top: 70px;
+	}	
+}
+.single_c_completed_sales,
+.single_c_completed_sales a{
+	outline:none
 }

@@ -3,7 +3,7 @@
 <div class="hero_section_front">
 	<div class="container_pp relativ_pos">
 		<div class="svg_line1_hero svg_line_position line_first_pp" data-aos="fade-right" data-aos-duration="1000">
-			<svg xmlns="http://www.w3.org/2000/svg" width="1379.508" height="18.293" viewBox="0 0 1379.508 18.293"> <g id="Group_3660" data-name="Group 3660" transform="translate(999.004 -259.851)"> <line id="Line_2" data-name="Line 2" x2="1379.5" y2="5.563" transform="translate(-999 263.5)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_651" data-name="Ellipse 651" transform="translate(170 278.144) rotate(-90)" fill="#273142" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_652" data-name="Ellipse 652" transform="translate(198.271 274.817) rotate(-90)" fill="#273142" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_653" data-name="Ellipse 653" transform="translate(263.128 274.817) rotate(-90)" fill="#273142" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_654" data-name="Ellipse 654" transform="translate(241.509 274.817) rotate(-90)" fill="#273142" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Group_3656" data-name="Group 3656" transform="translate(284.747 263.177)"> <g id="Ellipse_655" data-name="Ellipse 655" transform="translate(0 11.641) rotate(-90)" fill="#273142" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> <g id="Ellipse_656" data-name="Ellipse 656" transform="translate(219.89 274.817) rotate(-90)" fill="#273142" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
+			<svg xmlns="http://www.w3.org/2000/svg" width="1376.5" height="18.292" viewBox="0 0 1376.5 18.292"> <g id="Group_3661" data-name="Group 3661" transform="translate(996 -832.677)"> <line id="Line_1" data-name="Line 1" y1="0.098" x2="1376.5" transform="translate(-996 841.553)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_633" data-name="Ellipse 633" transform="translate(166.674 850.969) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_634" data-name="Ellipse 634" transform="translate(241.509 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_637" data-name="Ellipse 637" transform="translate(263.128 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_635" data-name="Ellipse 635" transform="translate(219.89 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638" data-name="Ellipse 638" transform="translate(284.747 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-2" data-name="Ellipse 638" transform="translate(306.366 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-3" data-name="Ellipse 638" transform="translate(324.659 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_636" data-name="Ellipse 636" transform="translate(194.945 847.471) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
 		</div>
 		<div class="two_columns_hero">
 			<div class="left_col_hero">
@@ -27,10 +27,11 @@
 
 
 
+
 <div id="about" class="about_section_home">
 	<div class="container_pp relativ_pos">
 		<div class="svg_line1_hero svg_line_position svg_line_2_pos" data-aos="fade-right" data-aos-duration="1000">
-			<svg xmlns="http://www.w3.org/2000/svg" width="1376.5" height="18.293" viewBox="0 0 1376.5 18.293"> <g id="Group_3661" data-name="Group 3661" transform="translate(996 -832.322)"> <line id="Line_1" data-name="Line 1" y1="0.098" x2="1376.5" transform="translate(-996 841.553)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_633" data-name="Ellipse 633" transform="translate(191.619 850.615) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_634" data-name="Ellipse 634" transform="translate(170 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_637" data-name="Ellipse 637" transform="translate(263.128 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_635" data-name="Ellipse 635" transform="translate(241.509 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638" data-name="Ellipse 638" transform="translate(284.747 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_636" data-name="Ellipse 636" transform="translate(219.89 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
+			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1379" height="21" viewBox="0 0 1379 21"> <defs> <clipPath id="clip-Web_1920_1"> <rect width="1379" height="21"/> </clipPath> </defs> <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)"> <g id="Group_3661" data-name="Group 3661" transform="translate(997 -831.323)"> <line id="Line_1" data-name="Line 1" y1="0.098" x2="1376.5" transform="translate(-996 841.553)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_633" data-name="Ellipse 633" transform="translate(191.619 850.969) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_634" data-name="Ellipse 634" transform="translate(241.509 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_637" data-name="Ellipse 637" transform="translate(263.128 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_635" data-name="Ellipse 635" transform="translate(219.89 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638" data-name="Ellipse 638" transform="translate(284.747 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-2" data-name="Ellipse 638" transform="translate(306.366 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-3" data-name="Ellipse 638" transform="translate(324.659 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_636" data-name="Ellipse 636" transform="translate(170 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </g> </svg>
 		</div>
 		<div class="box_about_section">
 			<h3 class="h3_about">About <span>Us</span></h3>
@@ -83,8 +84,177 @@
 						<p>Play2Earn</p>
 					</div>
 				</div>
-				
-				
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="sales_home_section">
+	<div class="container_pp relativ_pos">
+		<div class="svg_line1_hero svg_line_position svg_line_2_pos" data-aos="fade-right" data-aos-duration="1000">
+			<svg xmlns="http://www.w3.org/2000/svg" width="1376.5" height="18.292" viewBox="0 0 1376.5 18.292"> <g id="Group_3661" data-name="Group 3661" transform="translate(996 -832.677)"> <line id="Line_1" data-name="Line 1" y1="0.098" x2="1376.5" transform="translate(-996 841.553)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_633" data-name="Ellipse 633" transform="translate(216.564 850.969) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_634" data-name="Ellipse 634" transform="translate(241.509 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_637" data-name="Ellipse 637" transform="translate(263.128 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_635" data-name="Ellipse 635" transform="translate(194.945 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638" data-name="Ellipse 638" transform="translate(284.747 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-2" data-name="Ellipse 638" transform="translate(306.366 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-3" data-name="Ellipse 638" transform="translate(324.659 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_636" data-name="Ellipse 636" transform="translate(170 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
+		</div>
+		<div>
+			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
+			<div class="columns_sales">
+				<div>
+					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
+						<div class="image__sales">
+							<img src="/image/luart_image.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								Luart
+							</p>
+							<p class="token_btn_yellow__sales">
+								<a href="https://app.starterra.io/project/luart">
+									Research
+									<span class="arrow_2">
+										<span></span>
+										<span></span>
+									</span>
+								</a>
+							</p>
+						</div>
+					</div>
+					<div class="d-flex align-items-center column__sales relativ_pos">
+						<div class="image__sales">
+							<img src="/image/robohero_image.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								RoboHero
+							</p>
+							<p class="token_btn_white__sales">
+								Coming Soon
+							</p>
+						</div>
+					</div>
+				</div>
+				<div>
+					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
+						<div class="image__sales">
+							<img src="/image/kaizenfinance_image.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								Kaizen Finance
+							</p>
+							<p class="token_btn_white__sales">
+								Coming Soon
+							</p>
+						</div>
+					</div>
+					<div class="d-flex align-items-center column__sales relativ_pos">
+						<div class="image__sales">
+							<img src="/image/lunaverse_image.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								Lunaverse
+							</p>
+							<p class="token_btn_white__sales">
+								Coming Soon
+							</p>
+						</div>
+					</div>
+				</div>
+				<div>
+					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
+						<div class="image__sales">
+							<img src="/image/topsecret_image.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								Top Secret
+							</p>
+							<p class="token_btn_white__sales">
+								Coming Soon
+							</p>
+						</div>
+					</div>
+					<div class="d-flex align-items-center column__sales relativ_pos">
+						<div class="image__sales">
+							<img src="/image/topsecret_image.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								Top Secret
+							</p>
+							<p class="token_btn_white__sales">
+								Coming Soon
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="completed_sales_section">
+		<div class="container_pp relativ_pos">
+			<div class="svg_line1_hero svg_line_position svg_line_2_pos" data-aos="fade-right" data-aos-duration="1000">
+				<svg xmlns="http://www.w3.org/2000/svg" width="1376.5" height="18.292" viewBox="0 0 1376.5 18.292"> <g id="Group_3661" data-name="Group 3661" transform="translate(996 -832.677)"> <line id="Line_1" data-name="Line 1" y1="0.098" x2="1376.5" transform="translate(-996 841.553)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_633" data-name="Ellipse 633" transform="translate(238.183 850.969) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_634" data-name="Ellipse 634" transform="translate(219.89 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_637" data-name="Ellipse 637" transform="translate(263.128 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_635" data-name="Ellipse 635" transform="translate(194.945 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638" data-name="Ellipse 638" transform="translate(284.747 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-2" data-name="Ellipse 638" transform="translate(306.366 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-3" data-name="Ellipse 638" transform="translate(324.659 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_636" data-name="Ellipse 636" transform="translate(170 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
+			</div>
+				<h3 class="h3_about">Completed <span>Sales</span></h3>
+		</div>
+		<div class="completed_sales_carousel_section">
+			<div class="container_pp relativ_pos">
+				<div class="completed_sales_bottom">
+					<div class="completed_sales_carousel">
+					
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/wizarre">
+								<img src="/image/completed_sales_wizarre.png">
+							</a>
+						</div>
+						
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/playnity">
+								<img src="/image/completed_sales_playnity.png">
+							</a>
+						</div>
+						
+						
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/solchicks">
+								<img src="/image/completed_sales_solchicks.png">
+							</a>
+						</div>
+						
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/angel-protocol">
+								<img src="/image/completed_sales_angel_protocol-2.png">
+							</a>
+						</div>
+						
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/kujira">
+								<img src="/image/completed_sales_kujira.png">
+							</a>
+						</div>
+						
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/orion">
+								<img src="/image/completed_sales_orion_money.png">
+							</a>
+						</div>
+						
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/terraland">
+								<img src="/image/completed_sales_terraland.png">
+							</a>
+						</div>
+						
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/loop">
+								<img src="/image/completed_sales_loop-2.png">
+							</a>
+						</div>
+						
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -96,7 +266,7 @@
 	<div class="box_top_planets_hp">
 		<div class="container_pp relativ_pos">
 			<div data-aos="fade-left" data-aos-duration="1000" class="lines_pp_planets">
-				<svg xmlns="http://www.w3.org/2000/svg" width="2078.909" height="18.293" viewBox="0 0 2078.909 18.293"> <g id="Group_3662" data-name="Group 3662" transform="translate(-306 -1380.989)"> <line id="Line_3" data-name="Line 3" x1="2078.909" y2="0.27" transform="translate(306 1389.782)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_657" data-name="Ellipse 657" transform="translate(432.85 1399.282) rotate(-90)" fill="#212a38" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_658" data-name="Ellipse 658" transform="translate(389.612 1395.956) rotate(-90)" fill="#212a38" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_659" data-name="Ellipse 659" transform="translate(482.74 1395.956) rotate(-90)" fill="#212a38" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_660" data-name="Ellipse 660" transform="translate(461.121 1395.956) rotate(-90)" fill="#212a38" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_661" data-name="Ellipse 661" transform="translate(504.359 1395.956) rotate(-90)" fill="#212a38" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_662" data-name="Ellipse 662" transform="translate(411.231 1395.956) rotate(-90)" fill="#212a38" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2134" height="21" viewBox="0 0 2134 21"> <defs> <clipPath id="clip-Web_1920_1"> <rect width="2134" height="21"/> </clipPath> </defs> <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)"> <g id="Group_3665" data-name="Group 3665" transform="translate(-838.03 -3921.143)"> <path id="Path_3228" data-name="Path 3228" d="M2108.27,0H-24" transform="translate(863.03 3931.559)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_709" data-name="Ellipse 709" transform="translate(962.554 3940.789) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_710" data-name="Ellipse 710" transform="translate(922.641 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_710-2" data-name="Ellipse 710" transform="translate(879.403 3937.817) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_710-3" data-name="Ellipse 710" transform="translate(901.022 3937.817) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_711" data-name="Ellipse 711" transform="translate(987.499 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_713" data-name="Ellipse 713" transform="translate(1009.118 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_713-2" data-name="Ellipse 713" transform="translate(1034.063 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_714" data-name="Ellipse 714" transform="translate(944.26 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </g> </svg>
 			</div>
 			<div class="top_planets_hp">
 				<p class="text_about">Explore our gamified tier-based system.</p>
@@ -188,7 +358,7 @@
 	<div class="two_columns_tokenomics">
 		<div class="container_pp relativ_pos">
 		<div class="svg_line1_hero svg_line_position svg_line_3_pos token_lines" data-aos="fade-right" data-aos-duration="1000">
-			<svg xmlns="http://www.w3.org/2000/svg" width="1383.501" height="18.293" viewBox="0 0 1383.501 18.293"> <g id="Group_3663" data-name="Group 3663" transform="translate(1003.5 -2765.89)"> <line id="Line_5" data-name="Line 5" x2="1383.5" y2="0.536" transform="translate(-1003.5 2774.5)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Path_3247" data-name="Path 3247" transform="translate(234.357 2784.183) rotate(-90)" fill="#19212e"> <path d="M 9.146484375 17.29296493530273 C 4.654504299163818 17.29296493530273 1.000004410743713 13.63846397399902 1.000004410743713 9.146484375 C 1.000004410743713 4.654504299163818 4.654504299163818 1.000004410743713 9.146484375 1.000004410743713 C 13.63846397399902 1.000004410743713 17.29296493530273 4.654504299163818 17.29296493530273 9.146484375 C 17.29296493530273 13.63846397399902 13.63846397399902 17.29296493530273 9.146484375 17.29296493530273 Z" stroke="none"/> <path d="M 9.146484375 2.000003814697266 C 5.205904006958008 2.000003814697266 2.000003814697266 5.205904006958008 2.000003814697266 9.146484375 C 2.000003814697266 13.08706474304199 5.205904006958008 16.29296493530273 9.146484375 16.29296493530273 C 13.08706474304199 16.29296493530273 16.29296493530273 13.08706474304199 16.29296493530273 9.146484375 C 16.29296493530273 5.205904006958008 13.08706474304199 2.000003814697266 9.146484375 2.000003814697266 M 9.146484375 3.814697265625e-06 C 14.19794464111328 3.814697265625e-06 18.29296493530273 4.095024108886719 18.29296493530273 9.146484375 C 18.29296493530273 14.19794464111328 14.19794464111328 18.29296493530273 9.146484375 18.29296493530273 C 4.095024108886719 18.29296493530273 3.814697265625e-06 14.19794464111328 3.814697265625e-06 9.146484375 C 3.814697265625e-06 4.095024108886719 4.095024108886719 3.814697265625e-06 9.146484375 3.814697265625e-06 Z" stroke="none" fill="#fe0"/> </g> <g id="Ellipse_704" data-name="Ellipse 704" transform="translate(169.5 2780.772) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_705" data-name="Ellipse 705" transform="translate(262.628 2780.772) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_706" data-name="Ellipse 706" transform="translate(212.739 2780.772) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_707" data-name="Ellipse 707" transform="translate(284.247 2780.772) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_708" data-name="Ellipse 708" transform="translate(191.119 2780.772) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
+			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1379" height="21" viewBox="0 0 1379 21"> <defs> <clipPath id="clip-Web_1920_1"> <rect width="1379" height="21"/> </clipPath> </defs> <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)"> <g id="Group_3661" data-name="Group 3661" transform="translate(997 -831.323)"> <line id="Line_1" data-name="Line 1" y1="0.098" x2="1376.5" transform="translate(-996 841.553)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_633" data-name="Ellipse 633" transform="translate(281.421 850.969) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_634" data-name="Ellipse 634" transform="translate(219.89 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_637" data-name="Ellipse 637" transform="translate(263.128 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_635" data-name="Ellipse 635" transform="translate(194.945 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638" data-name="Ellipse 638" transform="translate(241.509 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-2" data-name="Ellipse 638" transform="translate(306.366 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-3" data-name="Ellipse 638" transform="translate(324.659 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_636" data-name="Ellipse 636" transform="translate(170 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </g> </svg>
 		</div>
 		<div class="columns_two_tokenics_pp">
 		<div class="single_column_tokenomics first_sngl_col_tokenomics">
@@ -238,7 +408,7 @@
 				<div class="left_col_three">
 					<div class="single_column_tokenomics first_sngl_col_tokenomics">
 						<div class="svg_line1_hero svg_line_position svg_line_3_pos" data-aos="fade-right" data-aos-duration="1000">
-							<svg xmlns="http://www.w3.org/2000/svg" width="1383.501" height="18.293" viewBox="0 0 1383.501 18.293"> <g id="Group_3663" data-name="Group 3663" transform="translate(1003.5 -2765.89)"> <line id="Line_5" data-name="Line 5" x2="1383.5" y2="0.536" transform="translate(-1003.5 2774.5)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Path_3247" data-name="Path 3247" transform="translate(234.357 2784.183) rotate(-90)" fill="#19212e"> <path d="M 9.146484375 17.29296493530273 C 4.654504299163818 17.29296493530273 1.000004410743713 13.63846397399902 1.000004410743713 9.146484375 C 1.000004410743713 4.654504299163818 4.654504299163818 1.000004410743713 9.146484375 1.000004410743713 C 13.63846397399902 1.000004410743713 17.29296493530273 4.654504299163818 17.29296493530273 9.146484375 C 17.29296493530273 13.63846397399902 13.63846397399902 17.29296493530273 9.146484375 17.29296493530273 Z" stroke="none"/> <path d="M 9.146484375 2.000003814697266 C 5.205904006958008 2.000003814697266 2.000003814697266 5.205904006958008 2.000003814697266 9.146484375 C 2.000003814697266 13.08706474304199 5.205904006958008 16.29296493530273 9.146484375 16.29296493530273 C 13.08706474304199 16.29296493530273 16.29296493530273 13.08706474304199 16.29296493530273 9.146484375 C 16.29296493530273 5.205904006958008 13.08706474304199 2.000003814697266 9.146484375 2.000003814697266 M 9.146484375 3.814697265625e-06 C 14.19794464111328 3.814697265625e-06 18.29296493530273 4.095024108886719 18.29296493530273 9.146484375 C 18.29296493530273 14.19794464111328 14.19794464111328 18.29296493530273 9.146484375 18.29296493530273 C 4.095024108886719 18.29296493530273 3.814697265625e-06 14.19794464111328 3.814697265625e-06 9.146484375 C 3.814697265625e-06 4.095024108886719 4.095024108886719 3.814697265625e-06 9.146484375 3.814697265625e-06 Z" stroke="none" fill="#fe0"/> </g> <g id="Ellipse_704" data-name="Ellipse 704" transform="translate(169.5 2780.772) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_705" data-name="Ellipse 705" transform="translate(262.628 2780.772) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_706" data-name="Ellipse 706" transform="translate(212.739 2780.772) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_707" data-name="Ellipse 707" transform="translate(284.247 2780.772) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_708" data-name="Ellipse 708" transform="translate(191.119 2780.772) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1379" height="21" viewBox="0 0 1379 21"> <defs> <clipPath id="clip-Web_1920_1"> <rect width="1379" height="21"/> </clipPath> </defs> <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)"> <g id="Group_3661" data-name="Group 3661" transform="translate(997 -831.323)"> <line id="Line_1" data-name="Line 1" y1="0.098" x2="1376.5" transform="translate(-996 841.553)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_633" data-name="Ellipse 633" transform="translate(303.04 850.969) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_634" data-name="Ellipse 634" transform="translate(219.89 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_637" data-name="Ellipse 637" transform="translate(263.128 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_635" data-name="Ellipse 635" transform="translate(194.945 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638" data-name="Ellipse 638" transform="translate(284.747 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-2" data-name="Ellipse 638" transform="translate(241.509 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-3" data-name="Ellipse 638" transform="translate(327.985 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_636" data-name="Ellipse 636" transform="translate(170 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </g> </svg>
 						</div>
 						<p class="first_text_token"></p>
 						<h3 class="h3_about">Road<span>Map</span></h3>
@@ -304,7 +474,7 @@
 <div id="team" class="team_section_hp">
 	<div class="top_team_box">
 		<div data-aos="fade-left" data-aos-duration="1000" class="team_svg_lines2">
-			<svg xmlns="http://www.w3.org/2000/svg" width="2132.274" height="18.293" viewBox="0 0 2132.274 18.293"> <g id="Group_3665" data-name="Group 3665" transform="translate(-839.03 -3922.496)"> <path id="Path_3228" data-name="Path 3228" d="M2108.274,0,841.716,0H-24" transform="translate(863.03 3931.559)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_709" data-name="Ellipse 709" transform="translate(1030.737 3940.789) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_710" data-name="Ellipse 710" transform="translate(922.641 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_711" data-name="Ellipse 711" transform="translate(987.499 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_712" data-name="Ellipse 712" transform="translate(965.88 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_713" data-name="Ellipse 713" transform="translate(1009.118 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_714" data-name="Ellipse 714" transform="translate(944.26 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
+			<svg xmlns="http://www.w3.org/2000/svg" width="2132.27" height="18.292" viewBox="0 0 2132.27 18.292"> <g id="Group_3665" data-name="Group 3665" transform="translate(-839.03 -3922.497)"> <path id="Path_3228" data-name="Path 3228" d="M2108.27,0H-24" transform="translate(863.03 3931.559)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_709" data-name="Ellipse 709" transform="translate(1030.737 3940.789) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_710" data-name="Ellipse 710" transform="translate(922.641 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_710-2" data-name="Ellipse 710" transform="translate(879.403 3937.817) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_710-3" data-name="Ellipse 710" transform="translate(901.022 3937.817) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_711" data-name="Ellipse 711" transform="translate(987.499 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_712" data-name="Ellipse 712" transform="translate(965.88 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_713" data-name="Ellipse 713" transform="translate(1009.118 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_714" data-name="Ellipse 714" transform="translate(944.26 3937.463) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
 		</div>
 		<div class="container_pp">
 			<div class="headline_top_team">
@@ -422,39 +592,7 @@
 						</ul>
 					</div>
 				</div>
-				
-				<style>
-.img_kurdziel{
-	background-image:url(/image/02B%20%281%29.jpg)
-}
-.img_kurdziel:hover{
-	background-image:url(/image/02A%20%281%29.jpg)
-}
-.img_milkowski{
-	background-image:url(/image/A02%20%281%29.jpg)
-}
-.img_milkowski:hover{
-	background-image:url(/image/A01%20%281%29.jpg)
-}
-.img_kowalczyk{
-	background-image:url(/image/03B%20%281%29.jpg)
-}
-.img_kowalczyk:hover{
-	background-image:url(/image/03A%20%281%29.jpg)
-}
-.image_profile img{visibility:hidden}
-	 
-.image_profile{
-	background-size:cover;
-	background-repeat:no-repeat;
-	background-size:contain;
-	transition:all .3s
-}
-.image_prof_border {
-    border: 2px solid #fff;
-}
-</style>
-				
+	
 				<div class="single_team_box">
 					<div class="svg_twitter">
 						<div class="svg_twitter_brd1">
@@ -468,7 +606,7 @@
 						<h5 class="name_h5">Michał <span>Kurdziel</span></h5>
 					</div>
 					<div class="position_team">
-						<p>CTO</p>
+						<p>COO</p>
 					</div>
 					<div class="text_team">
 						<p>Michal during his 13-year professional path went through all positions in the software development process. He's a well-experienced team leader with crucial in this position soft skills and technical background. I can personally add that he is kind of genius with fast learning skills.</p>
@@ -536,7 +674,7 @@
 						<h5 class="name_h5">Tomasz <span>Kowalczyk</span></h5>
 					</div>
 					<div class="position_team">
-						<p>CSO</p>
+						<p>CTO</p>
 					</div>
 					<div class="text_team">
 						<p>Tomasz is the most reputable blockchain expert in Poland. He is well known from his YT channel <a href="https://www.youtube.com/channel/UCDAgUeYcYhnhRaK2MAQGLbw" target="_blank" rel="nofollow">CryptoDev</a> where he educates people about technical aspects of Blockchain technology. With Tomasz onboard we have guarantee that our smart-contracts will be designed on the highest possible level</p>
