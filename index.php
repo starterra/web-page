@@ -640,7 +640,7 @@
 						<h5 class="name_h5">Maciej <span>Miłkowski</span></h5>
 					</div>
 					<div class="position_team">
-						<p>Head of UX/UI</p>
+						<p>CDO</p>
 					</div>
 					<div class="text_team">
 						<p>Maciej Miłkowski is a world-class UX/UI expert. As the CEO of <a href="https://imtu.pl" target="_blank">imTU</a> company - specializing in design and development, he has acquired competencies that allow him to manage entire implementation processes. In StarTerra, he’s responsible for all that is visible. Personally also a great cryptocurrency enthusiast.</p>
