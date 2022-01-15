@@ -127,7 +127,13 @@
 								RoboHero
 							</p>
 							<p class="token_btn_white__sales">
-								Coming Soon
+								<a href="https://app.starterra.io/project/robohero" class="live">
+									Live
+									<span class="arrow_2">
+										<span></span>
+										<span></span>
+									</span>
+								</a>
 							</p>
 						</div>
 					</div>

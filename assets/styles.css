@@ -2032,3 +2032,9 @@ p.token_name__sales{
 .single_c_completed_sales a{
 	outline:none
 }
+.token_btn_white__sales a.live{
+	color:#29ef12
+}
+.token_btn_white__sales  a.live .arrow_2 > span{
+	border-color:#29ef12
+}
