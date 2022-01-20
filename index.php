@@ -120,20 +120,14 @@
 					</div>
 					<div class="d-flex align-items-center column__sales relativ_pos">
 						<div class="image__sales">
-							<img src="/image/robohero_image.png">
+							<img src="/image/lunaverse_image.png">
 						</div>
 						<div class="column__columns_sales">
 							<p class="token_name__sales">
-								RoboHero
+								Lunaverse
 							</p>
 							<p class="token_btn_white__sales">
-								<a href="https://app.starterra.io/project/robohero" class="live">
-									Live
-									<span class="arrow_2">
-										<span></span>
-										<span></span>
-									</span>
-								</a>
+								Coming Soon
 							</p>
 						</div>
 					</div>
@@ -152,35 +146,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="d-flex align-items-center column__sales relativ_pos">
-						<div class="image__sales">
-							<img src="/image/lunaverse_image.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								Lunaverse
-							</p>
-							<p class="token_btn_white__sales">
-								Coming Soon
-							</p>
-						</div>
-					</div>
-				</div>
-				<div>
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
-						<div class="image__sales">
-							<img src="/image/topsecret_image.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								Top Secret
-							</p>
-							<p class="token_btn_white__sales">
-								Coming Soon
-							</p>
-						</div>
-					</div>
-					<div class="d-flex align-items-center column__sales relativ_pos">
 						<div class="image__sales">
 							<img src="/image/topsecret_image.png">
 						</div>
