@@ -177,6 +177,12 @@
 					<div class="completed_sales_carousel">
 					
 						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/robohero">
+								<img src="/image/completed_sales_robohero.png">
+							</a>
+						</div>
+						
+						<div class="single_c_completed_sales">
 							<a href="https://app.starterra.io/project/wizarre">
 								<img src="/image/completed_sales_wizarre.png">
 							</a>
