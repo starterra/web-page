@@ -95,8 +95,44 @@
 		<div class="svg_line1_hero svg_line_position svg_line_2_pos" data-aos="fade-right" data-aos-duration="1000">
 			<svg xmlns="http://www.w3.org/2000/svg" width="1376.5" height="18.292" viewBox="0 0 1376.5 18.292"> <g id="Group_3661" data-name="Group 3661" transform="translate(996 -832.677)"> <line id="Line_1" data-name="Line 1" y1="0.098" x2="1376.5" transform="translate(-996 841.553)" fill="none" stroke="#fff" stroke-width="2"/> <g id="Ellipse_633" data-name="Ellipse 633" transform="translate(216.564 850.969) rotate(-90)" fill="#19212e" stroke="#fe0" stroke-width="2"> <circle cx="9.146" cy="9.146" r="9.146" stroke="none"/> <circle cx="9.146" cy="9.146" r="8.146" fill="none"/> </g> <g id="Ellipse_634" data-name="Ellipse 634" transform="translate(241.509 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_637" data-name="Ellipse 637" transform="translate(263.128 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_635" data-name="Ellipse 635" transform="translate(194.945 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638" data-name="Ellipse 638" transform="translate(284.747 847.289) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-2" data-name="Ellipse 638" transform="translate(306.366 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_638-3" data-name="Ellipse 638" transform="translate(324.659 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> <g id="Ellipse_636" data-name="Ellipse 636" transform="translate(170 847.643) rotate(-90)" fill="#19212e" stroke="#fff" stroke-width="2"> <circle cx="5.82" cy="5.82" r="5.82" stroke="none"/> <circle cx="5.82" cy="5.82" r="4.82" fill="none"/> </g> </g> </svg>
 		</div>
+		
+		
 		<div>
 			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
+			
+			
+			<div class="feauture_section_sales">
+				<div class="boxes__feauture_section_sales">
+					<div class="img__feauture_section_sales">
+						<img src="/image/lunaverse_image.png">
+					</div>
+					<div class="box1__feauture_section_sales">
+						<p class="token_name__sales">Lunaverse</p>
+						<p class="token_btn_white__sales">Registration Starts In</p>
+						<div class="count__feauture_section_sales">
+							<span id="counter_coming_soon"></span>
+						</div>
+					</div>
+					<div class="box2__feauture_section_sales">
+						<div class="stats__box2_feauture_section_sales">
+							<p class="stats1__box2_feauture_section_sales">Registration Starts</p>
+							<p class="stats2__box2_feauture_section_sales">31.01.2022</p>
+						</div>
+						<div class="stats__box2_feauture_section_sales">
+							<p class="stats1__box2_feauture_section_sales">Registration Closes</p>
+							<p class="stats2__box2_feauture_section_sales">07.02.2022</p>
+						</div>
+						<div class="stats__box2_feauture_section_sales">
+							<p class="stats1__box2_feauture_section_sales">Platform Raise</p>
+							<p class="stats2__box2_feauture_section_sales">2,000,000 UST</p>
+						</div>
+					</div>
+					<div class="box3__feauture_section_sales">
+						<a href="https://app.starterra.io/project/lunaverse" class="btn_sales_primary">Research</a>
+					</div>
+				</div>
+			</div>
+			
 			<div class="columns_sales">
 				<div>
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
@@ -118,13 +154,13 @@
 							</p>
 						</div>
 					</div>
-					<div class="d-flex align-items-center column__sales relativ_pos">
+					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
-							<img src="/image/lunaverse_image.png">
+							<img src="/image/kaizenfinance_image.png">
 						</div>
 						<div class="column__columns_sales">
 							<p class="token_name__sales">
-								Lunaverse
+								Kaizen Finance
 							</p>
 							<p class="token_btn_white__sales">
 								Coming Soon
@@ -135,11 +171,11 @@
 				<div>
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
-							<img src="/image/kaizenfinance_image.png">
+							<img src="/image/mintdao_image.png">
 						</div>
 						<div class="column__columns_sales">
 							<p class="token_name__sales">
-								Kaizen Finance
+								MintDAO
 							</p>
 							<p class="token_btn_white__sales">
 								Coming Soon
@@ -677,3 +713,34 @@
 	</div>
 </div>
 <?php include 'footer.php'; ?>
+<script>
+var countDownDate = new Date("Monday, 31 January 2022, 13:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+ 
+  if(Math.floor(distance / (1000 * 60 * 60 * 24)) < 9){
+	 var days = '0'+Math.floor(distance / (1000 * 60 * 60 * 24));
+  }
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("counter_coming_soon").innerHTML = '<div><span class="number_counter">'+days+ '</span>' + '<span class="text_counter">Days</span></div>' + '<div><span class="number_counter">'+hours+ '</span>'+ '<span class="text_counter">Hrs</span></div>' + '<div><span class="number_counter">'+minutes + '</span>'+ '<span class="text_counter">Mins</span></div>' + '<div><span class="number_counter">'+seconds +  '</span>' + '<span class="text_counter">Secs</span></div>';
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("counter_coming_soon").innerHTML = "LIVE";
+  }
+}, 1000);
+</script>
