@@ -35,7 +35,9 @@
 		</div>
 		<div class="box_about_section">
 			<h3 class="h3_about">About <span>Us</span></h3>
-			<p class="text_about">StarTerra is the first gamified launchpad with a unique combination of guaranteed & lottery based prize pools.</p>
+			<p class="text_about">StarTerra is the first gamified launchpad with a unique combination of guaranteed based prize pools.</p>
+			<?php /*
+			<p class="text_about">StarTerra is the first gamified launchpad with a unique combination of guaranteed & lottery based prize pools.</p>*/ ?>
 			<div class="columns_about_section">
 				<div class="column_about_section">
 					<div class="ico_about_section">
@@ -312,7 +314,8 @@
 							<h4 class="head_planets_txt">Interstellars</h4>
 							<p class="top_txt_ltl_big">3000 StarTerra Energy</p>
 							<p class="bottom_txt_ltl_big">Pool Weight 15% + Up to 15%</p>
-							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed & Lottery</p>
+							<?php /* <p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed & Lottery</p>*/ ?>
+							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed</p>
 						</div>
 					</div>
 				</div>
@@ -326,7 +329,9 @@
 							<h4 class="head_planets_txt">Degens</h4>
 							<p class="top_txt_ltl_big">3000 StarTerra Energy</p>
 							<p class="bottom_txt_ltl_big">Pool Weight 15% + Up to 15%</p>
-							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed & Lottery</p>
+							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed</p>
+							<?php /*
+							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed & Lottery</p>*/ ?>
 						</div>
 					</div>
 				</div>
@@ -341,7 +346,9 @@
 							<h4 class="head_planets_txt">Lunatics</h4>
 							<p class="top_txt_ltl_big">3000 StarTerra Energy</p>
 							<p class="bottom_txt_ltl_big">Pool Weight 15% + Up to 15%</p>
-							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed & Lottery</p>
+							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed</p>
+							<?php /*
+							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Guaranteed & Lottery</p>*/ ?>
 						</div>
 					</div>
 				</div>
@@ -357,7 +364,8 @@
 							<h4 class="head_planets_txt">Recruits</h4>
 							<p class="top_txt_ltl_big">250 StarTerra Energy</p>
 							<p class="bottom_txt_ltl_big">Pool Weight 20%</p>
-							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Lottery</p>
+							<?php /*
+							<p class="bottom_txt_ltl_big bottom_txt_ltl_big2">Lottery</p>*/ ?>
 						</div>
 					</div>
 				</div>
