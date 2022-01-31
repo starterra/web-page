@@ -722,7 +722,7 @@
 </div>
 <?php include 'footer.php'; ?>
 <script>
-var countDownDate = new Date("Monday, 31 January 2022, 13:00:00").getTime();
+var countDownDate = new Date("Monday, 31 January 2022, 14:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
