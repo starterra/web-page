@@ -24,10 +24,6 @@
 				</div>
 				<div class="sm_footer footer-margin-right">
 					<ul class="hero-flex-c">
-						<li>
-							<?php /* https://drive.google.com/file/d/1o0SlAth8HWt9V98Pj8N7qiXC2qGYK18a/view */ ?>
-							<a href="javascript:void(0)" target="_blank" rel="nofollow">Whitepaper</a>
-						</li>
 						<li class="padding-top">
 							<a href="https://starterra.io/legals/privacy_policy.pdf" target="_blank" rel="nofollow">Privacy Policy</a>
 						</li>
