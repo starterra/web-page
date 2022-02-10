@@ -102,14 +102,14 @@
 		<div>
 			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
 			
-			
+			<?php if(time() > 1644505200000){ ?>
 			<div class="feauture_section_sales">
 				<div class="boxes__feauture_section_sales">
 					<div class="img__feauture_section_sales">
-						<img src="/image/lunaverse_image.png">
+						<img src="/image/logo_dragonsb.png">
 					</div>
 					<div class="box1__feauture_section_sales">
-						<p class="token_name__sales">Lunaverse</p>
+						<p class="token_name__sales">DragonSB</p>
 						<p class="token_btn_white__sales">Registration Starts In</p>
 						<div class="count__feauture_section_sales">
 							<span id="counter_coming_soon"></span>
@@ -118,23 +118,24 @@
 					<div class="box2__feauture_section_sales">
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Registration Starts</p>
-							<p class="stats2__box2_feauture_section_sales">31.01.2022</p>
+							<p class="stats2__box2_feauture_section_sales">15.02.2022</p>
 						</div>
+						
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Registration Closes</p>
-							<p class="stats2__box2_feauture_section_sales">07.02.2022</p>
+							<p class="stats2__box2_feauture_section_sales">17.02.2022</p>
 						</div>
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Platform Raise</p>
-							<p class="stats2__box2_feauture_section_sales">2,000,000 UST</p>
+							<p class="stats2__box2_feauture_section_sales">150,000 UST</p>
 						</div>
 					</div>
 					<div class="box3__feauture_section_sales">
-						<a href="https://app.starterra.io/project/lunaverse" class="btn_sales_primary">Research</a>
+						<a href="#" class="btn_sales_primary">Research</a>
 					</div>
 				</div>
 			</div>
-			
+			<?php } ?>
 			<div class="columns_sales">
 				<div>
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
@@ -214,6 +215,12 @@
 				<div class="completed_sales_bottom">
 					<div class="completed_sales_carousel">
 					
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/lunaverse">
+								<img src="/image/completed_sales_lunaverse.png">
+							</a>
+						</div>
+						
 						<div class="single_c_completed_sales">
 							<a href="https://app.starterra.io/project/robohero">
 								<img src="/image/completed_sales_robohero.png">
@@ -721,8 +728,9 @@
 	</div>
 </div>
 <?php include 'footer.php'; ?>
+<?php if(time() > 1644505200000){ ?>
 <script>
-var countDownDate = new Date("Monday, 31 January 2022, 14:00:00").getTime();
+var countDownDate = new Date("Tuesday, 15 February 2022, 14:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -748,7 +756,8 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("counter_coming_soon").innerHTML = "LIVE";
+    document.getElementById("counter_coming_soon").innerHTML = '<div class="sales_live_hp">LIVE</div>';
   }
 }, 1000);
 </script>
+<?php } ?>

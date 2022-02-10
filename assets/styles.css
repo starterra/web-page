@@ -2196,3 +2196,11 @@ p.stats2__box2_feauture_section_sales {
 		margin-top: 30px;
 	}
 }
+.sales_live_hp{
+	font-weight: 700;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18px;
+    letter-spacing: 0.18px;
+    display: inline-block;
+	color:#45e619
+}
