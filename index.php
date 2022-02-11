@@ -130,7 +130,7 @@
 						</div>
 					</div>
 					<div class="box3__feauture_section_sales">
-						<a href="#" class="btn_sales_primary">Research</a>
+						<a href="https://app.starterra.io/project/dragonsb" class="btn_sales_primary">Research</a>
 					</div>
 				</div>
 			</div>
