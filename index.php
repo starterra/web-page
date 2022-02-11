@@ -122,7 +122,7 @@
 						
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Registration Closes</p>
-							<p class="stats2__box2_feauture_section_sales">17.02.2022</p>
+							<p class="stats2__box2_feauture_section_sales">01.03.2022</p>
 						</div>
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Platform Raise</p>
@@ -130,7 +130,7 @@
 						</div>
 					</div>
 					<div class="box3__feauture_section_sales">
-						<a href="#" class="btn_sales_primary">Research</a>
+						<a href="https://app.starterra.io/project/dragonsb" class="btn_sales_primary">Research</a>
 					</div>
 				</div>
 			</div>
