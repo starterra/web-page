@@ -179,8 +179,14 @@
 							<p class="token_name__sales">
 								MintDAO
 							</p>
-							<p class="token_btn_white__sales">
-								Coming Soon
+							<p class="token_btn_yellow__sales">
+								<a href="https://app.starterra.io/project/mintdao">
+									Research
+									<span class="arrow_2">
+										<span></span>
+										<span></span>
+									</span>
+								</a>
 							</p>
 						</div>
 					</div>
