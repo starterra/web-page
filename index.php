@@ -101,7 +101,7 @@
 		
 		<div>
 			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
-			
+			<?php /*
 			<div class="feauture_section_sales">
 				<div class="boxes__feauture_section_sales">
 					<div class="img__feauture_section_sales">
@@ -134,7 +134,7 @@
 					</div>
 				</div>
 			</div>
-			
+			*/ ?>
 			<div class="columns_sales">
 				<div>
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
@@ -220,6 +220,11 @@
 				<div class="completed_sales_bottom">
 					<div class="completed_sales_carousel">
 					
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/dragonsb">
+								<img src="/image/completed_sales_dragonsb.png">
+							</a>
+						</div>
 						<div class="single_c_completed_sales">
 							<a href="https://app.starterra.io/project/lunaverse">
 								<img src="/image/completed_sales_lunaverse.png">
