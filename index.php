@@ -100,6 +100,7 @@
 		
 		
 		<div>
+		<?php /*
 			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
 			
 			<div class="feauture_section_sales">
@@ -133,7 +134,7 @@
 						<a href="https://app.starterra.io/project/mintdao" class="btn_sales_primary">Research</a>
 					</div>
 				</div>
-			</div>
+			</div><?php */ ?>
 			
 			<div class="columns_sales">
 				<div>
@@ -215,6 +216,11 @@
 				<div class="completed_sales_bottom">
 					<div class="completed_sales_carousel">
 					
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/mintdao">
+								<img src="/image/completed_sales_mintdao.png">
+							</a>
+						</div>
 						<div class="single_c_completed_sales">
 							<a href="https://app.starterra.io/project/dragonsb">
 								<img src="/image/completed_sales_dragonsb.png">
