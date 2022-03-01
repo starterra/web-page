@@ -100,9 +100,9 @@
 		
 		
 		<div>
-		<?php /*
+		
 			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
-			
+			<?php /*
 			<div class="feauture_section_sales">
 				<div class="boxes__feauture_section_sales">
 					<div class="img__feauture_section_sales">
@@ -174,11 +174,11 @@
 				<div>
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
-							<img src="/image/topsecret_image.png">
+							<img src="/image/proteus_finance.png">
 						</div>
 						<div class="column__columns_sales">
 							<p class="token_name__sales">
-								Top Secret
+								Proteus Finance
 							</p>
 							<p class="token_btn_white__sales">
 								Coming Soon
