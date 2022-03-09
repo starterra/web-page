@@ -140,25 +140,6 @@
 				<div>
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
-							<img src="/image/luart_image.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								Luart
-							</p>
-							<p class="token_btn_yellow__sales">
-								<a href="https://app.starterra.io/project/luart">
-									Research
-									<span class="arrow_2">
-										<span></span>
-										<span></span>
-									</span>
-								</a>
-							</p>
-						</div>
-					</div>
-					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
-						<div class="image__sales">
 							<img src="/image/kaizenfinance_image.png">
 						</div>
 						<div class="column__columns_sales">
@@ -199,6 +180,20 @@
 							</p>
 						</div>
 					</div>
+					
+					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
+						<div class="image__sales">
+							<img src="/image/topsecret_image.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								Top Secret
+							</p>
+							<p class="token_btn_white__sales">
+								Coming Soon
+							</p>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -216,6 +211,11 @@
 				<div class="completed_sales_bottom">
 					<div class="completed_sales_carousel">
 					
+						<div class="single_c_completed_sales">
+							<a href="https://app.starterra.io/project/luart">
+								<img src="/image/luart_completed_sales.png">
+							</a>
+						</div>
 						<div class="single_c_completed_sales">
 							<a href="https://app.starterra.io/project/mintdao">
 								<img src="/image/completed_sales_mintdao.png">
