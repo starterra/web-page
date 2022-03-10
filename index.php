@@ -151,8 +151,8 @@
 							</p>
 						</div>
 					</div>
-				</div>
-				<div>
+					
+					
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
 							<img src="/image/proteus_finance.png">
@@ -210,12 +210,13 @@
 			<div class="container_pp relativ_pos">
 				<div class="completed_sales_bottom">
 					<div class="completed_sales_carousel">
-					
+					<!--
 						<div class="single_c_completed_sales">
 							<a href="https://app.starterra.io/project/luart">
 								<img src="/image/luart_completed_sales.png">
 							</a>
 						</div>
+						--> 
 						<div class="single_c_completed_sales">
 							<a href="https://app.starterra.io/project/mintdao">
 								<img src="/image/completed_sales_mintdao.png">
