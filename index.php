@@ -169,6 +169,39 @@
 					
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
+							<img src="/image/lunart.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								LunArt
+							</p>
+							<p class="token_btn_yellow__sales">
+								<a href="https://app.starterra.io/project/lunart">
+									Research
+									<span class="arrow_2">
+										<span></span>
+										<span></span>
+									</span>
+								</a>
+							</p>
+						</div>
+					</div>
+					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
+						<div class="image__sales">
+							<img src="/image/brokkr.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								Brokkr
+							</p>
+							<p class="token_btn_white__sales">
+								Coming Soon
+							</p>
+						</div>
+					</div>
+					
+					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
+						<div class="image__sales">
 							<img src="/image/topsecret_image.png">
 						</div>
 						<div class="column__columns_sales">
