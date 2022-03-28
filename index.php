@@ -106,7 +106,7 @@
 			<div class="feauture_section_sales">
 				<div class="boxes__feauture_section_sales">
 					<div class="img__feauture_section_sales">
-						<img src="/image/lunart-logo">
+						<img src="/image/lunart.png">
 					</div>
 					<div class="box1__feauture_section_sales">
 						<p class="token_name__sales">LunArt</p>
@@ -149,21 +149,7 @@
 			*/ ?>
 			<div class="columns_sales">
 				<div>
-					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
-						<div class="image__sales">
-							<img src="/image/kaizenfinance_image.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								Kaizen Finance
-							</p>
-							<p class="token_btn_white__sales">
-								Coming Soon
-							</p>
-						</div>
-					</div>
-					
-					
+				
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
 							<img src="/image/proteus_finance.png">
@@ -220,7 +206,19 @@
 						</div>
 					</div>
 					
-					
+					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
+						<div class="image__sales">
+							<img src="/image/topsecret_image.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								Top Secret
+							</p>
+							<p class="token_btn_white__sales">
+								Coming Soon
+							</p>
+						</div>
+					</div>
 					
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
@@ -235,6 +233,7 @@
 							</p>
 						</div>
 					</div>
+					
 				</div>
 			</div>
 		</div>
