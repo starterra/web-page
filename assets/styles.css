@@ -2204,3 +2204,23 @@ p.stats2__box2_feauture_section_sales {
     display: inline-block;
 	color:#45e619
 }
+.box3__feauture_section_sales.box3__feauture_section_sales_tb2 > a:first-child {
+    margin-bottom: 20px;
+}
+.btn_sales_secondary:hover {
+    box-shadow: 0 0 10px #fe0;
+    color: #fff;
+}
+.btn_sales_secondary {
+    background-color: transparent;
+    font-size: 13px;
+    border-radius: 27px;
+    height: 42px;
+    padding: 8px!important;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border: 3px solid #fe0;
+}
