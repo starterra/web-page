@@ -102,15 +102,15 @@
 		<div>
 		
 			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
-			<?php /*
+			
 			<div class="feauture_section_sales">
 				<div class="boxes__feauture_section_sales">
 					<div class="img__feauture_section_sales">
-						<img src="/image/mintdao_image.png">
+						<img src="/image/lunart-logo">
 					</div>
 					<div class="box1__feauture_section_sales">
-						<p class="token_name__sales">MintDAO</p>
-						<p class="token_btn_white__sales">Registration Starts In</p>
+						<p class="token_name__sales">LunArt</p>
+						<p class="token_btn_white__sales">Registration Ends</p>
 						<div class="count__feauture_section_sales">
 							<span id="counter_coming_soon"></span>
 						</div>
@@ -118,24 +118,35 @@
 					<div class="box2__feauture_section_sales">
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Registration Starts</p>
-							<p class="stats2__box2_feauture_section_sales">18.02.2022</p>
+							<p class="stats2__box2_feauture_section_sales">28.03.2022</p>
 						</div>
 						
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Registration Closes</p>
-							<p class="stats2__box2_feauture_section_sales">24.02.2022</p>
+							<p class="stats2__box2_feauture_section_sales">30.03.2022</p>
 						</div>
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Platform Raise</p>
-							<p class="stats2__box2_feauture_section_sales">1,057,500 UST</p>
+							<p class="stats2__box2_feauture_section_sales">1,080,000 UST</p>
 						</div>
 					</div>
 					<div class="box3__feauture_section_sales">
-						<a href="https://app.starterra.io/project/mintdao" class="btn_sales_primary">Research</a>
+						<a href="https://app.starterra.io/project/lunart" class="btn_sales_primary">Leaderboard</a>
 					</div>
 				</div>
-			</div><?php */ ?>
+			</div>
 			
+			<?php /*
+			<p class="token_btn_yellow__sales">
+				<a href="https://app.starterra.io/project/lunart">
+					Research
+					<span class="arrow_2">
+						<span></span>
+						<span></span>
+					</span>
+				</a>
+			</p>
+			*/ ?>
 			<div class="columns_sales">
 				<div>
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
@@ -169,25 +180,6 @@
 					
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
-							<img src="/image/lunart.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								LunArt
-							</p>
-							<p class="token_btn_yellow__sales">
-								<a href="https://app.starterra.io/project/lunart">
-									Research
-									<span class="arrow_2">
-										<span></span>
-										<span></span>
-									</span>
-								</a>
-							</p>
-						</div>
-					</div>
-					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
-						<div class="image__sales">
 							<img src="/image/brokkr.png">
 						</div>
 						<div class="column__columns_sales">
@@ -202,17 +194,33 @@
 					
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
-							<img src="/image/topsecret_image.png">
+							<img src="/image/terrnado.png">
 						</div>
 						<div class="column__columns_sales">
 							<p class="token_name__sales">
-								Top Secret
+								Terrnado Cash
 							</p>
 							<p class="token_btn_white__sales">
 								Coming Soon
 							</p>
 						</div>
 					</div>
+					
+					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
+						<div class="image__sales">
+							<img src="/image/messier.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								Messier
+							</p>
+							<p class="token_btn_white__sales">
+								Coming Soon
+							</p>
+						</div>
+					</div>
+					
+					
 					
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
@@ -774,7 +782,7 @@
 </div>
 <?php include 'footer.php'; ?>
 <script>
-var countDownDate = new Date("Friday, 18 February 2022, 14:00:00").getTime();
+var countDownDate = new Date("Środa, 30 March 2022, 15:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
