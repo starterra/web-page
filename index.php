@@ -130,8 +130,9 @@
 							<p class="stats2__box2_feauture_section_sales">1,080,000 UST</p>
 						</div>
 					</div>
-					<div class="box3__feauture_section_sales">
-						<a href="https://app.starterra.io/project/lunart" class="btn_sales_primary">Leaderboard</a>
+					<div class="box3__feauture_section_sales box3__feauture_section_sales_tb2">
+						<a href="https://app.starterra.io/project/lunart/leaderboard/" class="btn_sales_secondary">Research</a>
+						<a href="https://app.starterra.io/project/lunart" class="btn_sales_primary">Participate</a>
 					</div>
 				</div>
 			</div>
