@@ -131,8 +131,8 @@
 						</div>
 					</div>
 					<div class="box3__feauture_section_sales box3__feauture_section_sales_tb2">
-						<a href="https://app.starterra.io/project/lunart/leaderboard/" class="btn_sales_secondary">Research</a>
 						<a href="https://app.starterra.io/project/lunart" class="btn_sales_primary">Participate</a>
+						<a href="https://app.starterra.io/project/lunart/leaderboard/" class="btn_sales_secondary">Leaderboard</a>
 					</div>
 				</div>
 			</div>
