@@ -100,9 +100,9 @@
 		
 		
 		<div>
-		
-			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
 			
+			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
+			<?php /*
 			<div class="feauture_section_sales">
 				<div class="boxes__feauture_section_sales">
 					<div class="img__feauture_section_sales">
@@ -131,11 +131,12 @@
 						</div>
 					</div>
 					<div class="box3__feauture_section_sales box3__feauture_section_sales_tb2">
-						<a href="https://app.starterra.io/project/lunart" class="btn_sales_primary">Participate</a>
+						<a href="https://app.starterra.io/project/terrnado" class="btn_sales_primary">Participate</a>
 						<a href="https://app.starterra.io/project/lunart/leaderboard/" class="btn_sales_secondary">Leaderboard</a>
 					</div>
 				</div>
 			</div>
+			*/ ?>
 			
 			<?php /*
 			<p class="token_btn_yellow__sales">
@@ -209,11 +210,11 @@
 					
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
-							<img src="/image/topsecret_image.png">
+							<img src="/image/tubbly.png">
 						</div>
 						<div class="column__columns_sales">
 							<p class="token_name__sales">
-								Top Secret
+								Tubbly
 							</p>
 							<p class="token_btn_white__sales">
 								Coming Soon
@@ -251,6 +252,11 @@
 			<div class="container_pp relativ_pos">
 				<div class="completed_sales_bottom">
 					<div class="completed_sales_carousel">
+					<div class="single_c_completed_sales">
+						<a href="https://app.starterra.io/project/lunart">
+							<img src="/image/completed_sales_lunart.png">
+						</a>
+					</div>
 					<!--
 						<div class="single_c_completed_sales">
 							<a href="https://app.starterra.io/project/luart">
@@ -500,7 +506,7 @@
 			<div class="col_three_right_road">
 				<div class="two_col_three_three_road">
 					<div class="img_three_col">
-						<img src="image/roadmap/Q4_21_Desktop.svg" />
+						<img src="image/desktop_road_map.svg" />
 					</div>
 				</div>
 			</div>
@@ -509,7 +515,7 @@
 			<div class="mobie_road_gal">
 				<div class="container_pp">
 					<div class="mobile_gal">
-						<img src="image/roadmap/Q4_21_Mobile.svg" />
+						<img src="image/mobile_road_map.svg" />
 					</div>
 				</div>
 			</div>
@@ -517,36 +523,37 @@
 				<div class="txt_mobile_road_gal">
 					<div class="txt_mobile_road_gal1">
 						<div class="left_txt_road_gal">
-							<p>Q1 2021</p>
+							<p>Q1 2022</p>
 						</div>
 						<div class="right_txt_road_gal">
-							<p>Market Research | Gathering Feedback from Other IDO Platforms | The First Concept of The Project Is Live</p>
+							<p>Multi Planetary Farming Launch | Diamond Hands Program Launch | StarHeroes - Product Acquisition & Game Economy | StarHeroes - Game Strategy and Marketing Launch</p>
 						</div>
 					</div>
 					<div class="txt_mobile_road_gal1">
 						<div class="left_txt_road_gal">
-							<p>Q2 2021</p>
+							<p>Q2 2022</p>
 						</div>
 						<div class="right_txt_road_gal">
-							<p>Foundation of Starterra | Team Creation | Website Development | Establishing Cooperation with Investors and Strategic Partners</p>
+							<p>New Platform Version: StarTerra Lite | STT - Deflation Mechanism Enhancement | Multi Planetary Farming expansion | StarHeroes - STAR token Prefarming | New IDO Participation System</p>
 						</div>
 					</div>
 					<div class="txt_mobile_road_gal1">
 						<div class="left_txt_road_gal">
-							<p>Q3 2021</p>
+							<p>Q3 2022</p>
 						</div>
 						<div class="right_txt_road_gal">
-							<p>Public Sale of STT | DEX Listing | Early Stage Platform Launch</p>
+							<p>Community Warchest - Decentralized Investment Vehicle | Platform Dashboard Implementation | StarHeroes - Initial NFT Offering | StarHeroes - NFT Marketplace Launch</p>
 						</div>
 					</div>
+					<?php /*
 					<div class="txt_mobile_road_gal1">
 						<div class="left_txt_road_gal">
-							<p>Q4 2021</p>
+							<p>Q4 2022</p>
 						</div>
 						<div class="right_txt_road_gal">
 							<p>Full Platform Launch | IDO | CEX Listing</p>
 						</div>
-					</div>
+					</div>*/ ?>
 				</div>
 			</div>
 </div>
