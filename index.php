@@ -154,6 +154,20 @@
 				
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
+							<img src="/image/terrnado.png">
+						</div>
+						<div class="column__columns_sales">
+							<p class="token_name__sales">
+								Terrnado Cash
+							</p>
+							<p class="token_btn_white__sales">
+								Coming Soon
+							</p>
+						</div>
+					</div>
+					
+					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
+						<div class="image__sales">
 							<img src="/image/proteus_finance.png">
 						</div>
 						<div class="column__columns_sales">
@@ -180,19 +194,6 @@
 						</div>
 					</div>
 					
-					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
-						<div class="image__sales">
-							<img src="/image/terrnado.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								Terrnado Cash
-							</p>
-							<p class="token_btn_white__sales">
-								Coming Soon
-							</p>
-						</div>
-					</div>
 					
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
@@ -201,20 +202,6 @@
 						<div class="column__columns_sales">
 							<p class="token_name__sales">
 								Messier
-							</p>
-							<p class="token_btn_white__sales">
-								Coming Soon
-							</p>
-						</div>
-					</div>
-					
-					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
-						<div class="image__sales">
-							<img src="/image/tubbly.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								Tubbly
 							</p>
 							<p class="token_btn_white__sales">
 								Coming Soon
