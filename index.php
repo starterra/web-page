@@ -102,14 +102,14 @@
 		<div>
 			
 			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
-			<?php /*
+			
 			<div class="feauture_section_sales">
 				<div class="boxes__feauture_section_sales">
 					<div class="img__feauture_section_sales">
-						<img src="/image/lunart.png">
+						<img src="/image/terrnado.png">
 					</div>
 					<div class="box1__feauture_section_sales">
-						<p class="token_name__sales">LunArt</p>
+						<p class="token_name__sales">Terrnado Cash</p>
 						<p class="token_btn_white__sales">Registration Ends</p>
 						<div class="count__feauture_section_sales">
 							<span id="counter_coming_soon"></span>
@@ -118,25 +118,24 @@
 					<div class="box2__feauture_section_sales">
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Registration Starts</p>
-							<p class="stats2__box2_feauture_section_sales">28.03.2022</p>
+							<p class="stats2__box2_feauture_section_sales">01.04.2022</p>
 						</div>
 						
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Registration Closes</p>
-							<p class="stats2__box2_feauture_section_sales">30.03.2022</p>
+							<p class="stats2__box2_feauture_section_sales">04.04.2022</p>
 						</div>
 						<div class="stats__box2_feauture_section_sales">
 							<p class="stats1__box2_feauture_section_sales">Platform Raise</p>
-							<p class="stats2__box2_feauture_section_sales">1,080,000 UST</p>
+							<p class="stats2__box2_feauture_section_sales">1,200,000 UST</p>
 						</div>
 					</div>
 					<div class="box3__feauture_section_sales box3__feauture_section_sales_tb2">
 						<a href="https://app.starterra.io/project/terrnado" class="btn_sales_primary">Participate</a>
-						<a href="https://app.starterra.io/project/lunart/leaderboard/" class="btn_sales_secondary">Leaderboard</a>
+						<a href="https://app.starterra.io/project/terrnado/leaderboard/" class="btn_sales_secondary">Leaderboard</a>
 					</div>
 				</div>
 			</div>
-			*/ ?>
 			
 			<?php /*
 			<p class="token_btn_yellow__sales">
@@ -151,21 +150,6 @@
 			*/ ?>
 			<div class="columns_sales">
 				<div>
-				
-					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
-						<div class="image__sales">
-							<img src="/image/terrnado.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								Terrnado Cash
-							</p>
-							<p class="token_btn_white__sales">
-								Coming Soon
-							</p>
-						</div>
-					</div>
-					
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
 							<img src="/image/proteus_finance.png">
@@ -222,6 +206,7 @@
 							</p>
 						</div>
 					</div>
+					<!--
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
 							<img src="/image/airlyft.png">
@@ -234,7 +219,7 @@
 								Coming Soon
 							</p>
 						</div>
-					</div>
+					</div>-->
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
 							<img src="/image/topsecret_image.png">
@@ -815,7 +800,7 @@
 </div>
 <?php include 'footer.php'; ?>
 <script>
-var countDownDate = new Date("Środa, 30 March 2022, 15:00:00").getTime();
+var countDownDate = new Date("Friday, 01 April 2022, 15:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
