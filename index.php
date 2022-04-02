@@ -800,7 +800,7 @@
 </div>
 <?php include 'footer.php'; ?>
 <script>
-var countDownDate = new Date("Friday, 04 April 2022, 15:00:00").getTime();
+var countDownDate = new Date("Friday, 04 April 2022, 15:00:01").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
