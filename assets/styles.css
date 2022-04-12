@@ -80,7 +80,7 @@ ul.menu_list {
 }
 header nav ul.menu_list > li {
     display: inline-block;
-    margin-right: 45px;
+    margin-right: 25px;
 }
 header nav ul.menu_list > li:last-child {
     margin-right: 0px

@@ -2,6 +2,7 @@
 	<ul class="menu_list">
 		<li class="menu_item"><a href="/">Home</a></li>
 		<li class="menu_item"><a href="/#about">About</a></li>
+		<li class="menu_item"><a href="/#upcoming-sales">Upcoming Sales</a></li>
 		<li class="menu_item"><a href="/#factions">Factions</a></li>
 		<li class="menu_item"><a href="/#tokenomics">Tokenomics</a></li>
 		<li class="menu_item"><a href="/#road-map">Road Map</a></li>
