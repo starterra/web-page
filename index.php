@@ -265,6 +265,20 @@
 					<div class="completed_sales_carousel">
 					
 					<div class="single_c_completed_sales">
+						<a href="https://app.starterra.io/project/airlyft">
+							<img src="/image/completed_kyte.png">
+						</a>
+					</div>
+					
+					
+					<div class="single_c_completed_sales">
+						<a href="https://app.starterra.io/project/proteus">
+							<img src="/image/completed_proteus.png">
+						</a>
+					</div>
+					
+					
+					<div class="single_c_completed_sales">
 						<a href="https://app.starterra.io/project/brokkr">
 							<img src="/image/brokkr_completed.png">
 						</a>
@@ -530,7 +544,7 @@
 			<div class="col_three_right_road">
 				<div class="two_col_three_three_road">
 					<div class="img_three_col">
-						<img src="image/desktop_road_map.svg" />
+						<img src="image/desktop_road_map1.svg" />
 					</div>
 				</div>
 			</div>
@@ -539,7 +553,7 @@
 			<div class="mobie_road_gal">
 				<div class="container_pp">
 					<div class="mobile_gal">
-						<img src="image/mobile_road_map.svg" />
+						<img src="image/mobile_road_map1.svg" />
 					</div>
 				</div>
 			</div>
