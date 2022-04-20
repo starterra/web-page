@@ -102,7 +102,7 @@
 		<div>
 			
 			<h3 class="h3_about">Live and Upcoming <span>Sales</span></h3>
-			<?php /*
+			
 			<div class="feauture_section_sales">
 				<div class="boxes__feauture_section_sales">
 					<div class="img__feauture_section_sales">
@@ -137,7 +137,7 @@
 				</div>
 			</div>
 			
-			
+			<?php /*
 			<p class="token_btn_yellow__sales">
 				<a href="https://app.starterra.io/project/lunart">
 					Research
