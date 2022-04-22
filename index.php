@@ -168,51 +168,11 @@
 					
 					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
 						<div class="image__sales">
-							<img src="/image/sugarkingdom.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								Sugar Kingdom
-							</p>
-							<p class="token_btn_white__sales">
-								Coming Soon
-							</p>
-						</div>
-					</div>
-					
-					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
-						<div class="image__sales">
-							<img src="/image/kaizenfinance_image.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								KaizenFinance
-							</p>
-							<p class="token_btn_white__sales">
-								Coming Soon
-							</p>
-						</div>
-					</div>
-					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
-						<div class="image__sales">
 							<img src="/image/tubbly.png">
 						</div>
 						<div class="column__columns_sales">
 							<p class="token_name__sales">
 								Tubbly
-							</p>
-							<p class="token_btn_white__sales">
-								Coming Soon
-							</p>
-						</div>
-					</div>
-					<div class="d-flex align-items-center column__sales column_border__sales relativ_pos">
-						<div class="image__sales">
-							<img src="/image/airlyft.png">
-						</div>
-						<div class="column__columns_sales">
-							<p class="token_name__sales">
-								Airlyft
 							</p>
 							<p class="token_btn_white__sales">
 								Coming Soon
@@ -263,6 +223,13 @@
 			<div class="container_pp relativ_pos">
 				<div class="completed_sales_bottom">
 					<div class="completed_sales_carousel">
+					
+					<div class="single_c_completed_sales">
+						<a href="https://app.starterra.io/project/sugar-kingdom">
+							<img src="/image/sugar_completed.svg">
+						</a>
+					</div>
+					
 					
 					<div class="single_c_completed_sales">
 						<a href="https://app.starterra.io/project/airlyft">
